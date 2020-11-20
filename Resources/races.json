@@ -1,0 +1,24 @@
+{
+    "attributes": [
+        { "uuid": "farming1", "title": "Inadequate Farmers", "cost": -3, "modifier": -1, "group": "FARMING" },
+        { "uuid": "farming2", "title": "Proficient Farmers", "cost": 3, "modifier": 1.5, "group": "FARMING" },
+        { "uuid": "farming3", "title": "Plant Whisperers", "cost": 6, "modifier": 6, "group": "FARMING" }
+    ],
+    
+    "races": [
+        { "uuid": "waitingForPlayer", "title":"Unknown" },
+        
+        { "uuid": "amoeba", "title":"Amoeba" },
+        { "uuid": "serpent", "title":"Serpent" },
+        { "uuid": "crystal", "title":"Crystal" },
+        { "uuid": "energy", "title":"Energy" },
+        
+        { "uuid": "human", "title":"Human", "longTitle":"The Human Coalition", "attributes": [ "RACE_FREETHINKING", "RACE_CHARISMATIC", "RACE_HIGHLY_TRAINED_SMUGGLERS", "RACE_MONEY_II" ] },
+        { "uuid": "isather", "title":"Isather", "longTitle":"The Isather Dominion", "attributes": [ "RACE_RESEARCH_I", "RACE_REPULSIVE", "RACE_GROWTH_II", "RACE_INDUSTRY_III", "RACE_BATTLE_HARDENED", "RACE_SANCTIONED_PIRACY", "RACE_NATURAL_TINKERS" ] },
+        { "uuid": "draske", "title":"Draske", "longTitle":"The Draske Hegemony", "attributes": [ "RACE_MONEY_I", "RACE_GROWTH_I", "RACE_RICH_HOMEWORLD", "RACE_FARMING_II", "RACE_GALACTIC_NAVIGATORS", "RACE_COMBAT_PILOTS", "RACE_PERSNICKETY", "RACE_BROAD_FIELD_EXPERIMENTALISTS" ] },
+        { "uuid": "cyban", "title":"Cyban", "longTitle":"The Community of Cybans", "attributes": [ "RACE_GROWTH_I", "RACE_POOR_HOMEWORLD", "RACE_RESEARCH_II", "RACE_TOLERANT", "RACE_ROBUST_TECHIES", "RACE_BRILLIANT_RESEARCHERS", "RACE_HIGHLY_FOCUSED_SCIENTISTS", "RACE_FANTASTIC_ENGINEERS" ] },
+        { "uuid": "vass", "title":"Vass", "longTitle":"The Vass Collective", "attributes": [ "RACE_INDUSTRY_I", "RACE_REPULSIVE", "RACE_LARGE_HOMEWORLD", "RACE_SHARED_INTELLIGENCE", "RACE_RESEARCH_III" ] },
+        { "uuid": "uggathaaa", "title":"Uggathaaa", "longTitle":"The Uggathaaa Commune", "attributes": [ "RACE_INDUSTRY_I" ] },
+        { "uuid": "taku", "title":"T'aku", "longTitle":"The T'Aku Junta", "attributes": [ "RACE_INDUSTRY_I" ] }
+    ]
+}
