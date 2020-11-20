@@ -1,0 +1,20 @@
+{
+    "empires": [
+        {
+            "uuid": "amoeba",
+            "title": "Amoeba",
+            "hasRace": true,
+            "teamType": "monster",
+            "AcquiredTechnology": [
+                "shipHullFrigate",
+                "shipHullDestroyer",
+                "shipHullCruiser",
+                "shipHullBattleship",
+                "shipHullTitan",
+                "shipHullMammoth",
+                "laserBeam1",
+                "heavyArmorPlating1"
+            ]
+        }
+    ]
+}
