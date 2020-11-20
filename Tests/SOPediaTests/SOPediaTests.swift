@@ -1,12 +1,11 @@
 import XCTest
 
-@testable import SOPedia
+@testable import SOPediaPamphlet
 
 final class SOPediaTests: XCTestCase {
     
     func testDefaultPedia() {
-        let raceJson = SOPedia.default.racesJson
-        XCTAssertNotNil(raceJson)
+        XCTAssertNotNil(SOPediaPamphlet.RacesJson())
     }
     
     static var allTests = [

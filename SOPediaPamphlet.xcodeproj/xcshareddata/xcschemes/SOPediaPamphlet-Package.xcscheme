@@ -14,24 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "SOPedia::SOPedia"
-               BuildableName = "SOPedia.framework"
-               BlueprintName = "SOPedia"
-               ReferencedContainer = "container:SOPedia.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "SOPedia::SOPediaPamphlet"
+               BlueprintIdentifier = "SOPediaPamphlet::SOPediaPamphlet"
                BuildableName = "SOPediaPamphlet.framework"
                BlueprintName = "SOPediaPamphlet"
-               ReferencedContainer = "container:SOPedia.xcodeproj">
+               ReferencedContainer = "container:SOPediaPamphlet.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,10 +32,10 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "SOPedia::SOPediaTests"
+               BlueprintIdentifier = "SOPediaPamphlet::SOPediaTests"
                BuildableName = "SOPediaTests.xctest"
                BlueprintName = "SOPediaTests"
-               ReferencedContainer = "container:SOPedia.xcodeproj">
+               ReferencedContainer = "container:SOPediaPamphlet.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
