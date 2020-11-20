@@ -19,6 +19,6 @@ update:
 	swift package update
 
 xcode:
-	pamphlet SOPedia --release ./Resources/ ./Sources/SOPediaPamphlet/ 
+	pamphlet --prefix SOPedia --release ./Resources/ ./Sources/SOPediaPamphlet/ 
 	swift package generate-xcodeproj
 	meta/addBuildPhase SOPediaPamphlet.xcodeproj/project.pbxproj "SOPediaPamphlet::SOPediaPamphlet" 'cd $${SRCROOT}; ./meta/CombinedBuildPhases.sh'
