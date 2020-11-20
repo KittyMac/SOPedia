@@ -5,15 +5,59 @@
             "title": "Amoeba",
             "hasRace": true,
             "teamType": "monster",
-            "AcquiredTechnology": [
+            "acquiredTechnologys": [
                 "shipHullFrigate",
                 "shipHullDestroyer",
                 "shipHullCruiser",
                 "shipHullBattleship",
-                "shipHullTitan",
-                "shipHullMammoth",
                 "laserBeam1",
                 "heavyArmorPlating1"
+            ]
+        },
+        {
+            "uuid": "serpent",
+            "title": "Serpent",
+            "hasRace": true,
+            "teamType": "monster",
+            "acquiredTechnologys": [
+                "shipHullFrigate",
+                "shipHullDestroyer",
+                "shipHullCruiser",
+                "shipHullBattleship",
+                "gaussTurret1",
+            ],
+            "raceAttributes": [
+                "combatPilots"
+            ]
+        },
+        {
+            "uuid": "crystal",
+            "title": "Crystal",
+            "hasRace": true,
+            "teamType": "monster",
+            "acquiredTechnologys": [
+                "shipHullFrigate",
+                "shipHullDestroyer",
+                "shipHullCruiser",
+                "shipHullBattleship",
+                "ionPulseCannon1",
+            ],
+            "raceAttributes": [
+                "combatPilots",
+                "fantasticEngineers"
+            ]
+        },
+        {
+            "uuid": "energy",
+            "title": "Strange Energy",
+            "hasRace": true,
+            "teamType": "monster",
+            "acquiredTechnologys": [
+                "shipHullFrigate",
+                "shipHullDestroyer",
+                "shipHullCruiser",
+                "shipHullBattleship",
+                "gaussTurret3",
             ]
         }
     ]
