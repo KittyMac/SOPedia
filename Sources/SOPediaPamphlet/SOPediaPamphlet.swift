@@ -7,6 +7,7 @@ public enum SOPediaPamphlet {
         switch member {
         case "/empires.json": return SOPediaPamphlet.EmpiresJson()
         case "/races.json": return SOPediaPamphlet.RacesJson()
+        case "/technology.json": return SOPediaPamphlet.TechnologyJson()
         default: break
         }
         return nil
@@ -15,6 +16,7 @@ public enum SOPediaPamphlet {
         switch member {
         case "/empires.json": return SOPediaPamphlet.EmpiresJsonGzip()
         case "/races.json": return SOPediaPamphlet.RacesJsonGzip()
+        case "/technology.json": return SOPediaPamphlet.TechnologyJsonGzip()
         default: break
         }
         return nil
