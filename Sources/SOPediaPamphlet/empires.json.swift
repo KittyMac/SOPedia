@@ -5,7 +5,7 @@ import Foundation
 public extension SOPediaPamphlet {
     static func EmpiresJson() -> String {
 return ###"""
-{"empires":[{"uuid":"amoeba","title":"Amoeba","hasRace":true,"teamType":"monster","acquiredTechnologys":["shipHullFrigate","shipHullDestroyer","shipHullCruiser","shipHullBattleship","laserBeam1","heavyArmorPlating1"]},{"uuid":"serpent","title":"Serpent","hasRace":true,"teamType":"monster","acquiredTechnologys":["shipHullFrigate","shipHullDestroyer","shipHullCruiser","shipHullBattleship","gaussTurret1",],"raceAttributes":["combatPilots"]},{"uuid":"crystal","title":"Crystal","hasRace":true,"teamType":"monster","acquiredTechnologys":["shipHullFrigate","shipHullDestroyer","shipHullCruiser","shipHullBattleship","ionPulseCannon1",],"raceAttributes":["combatPilots","fantasticEngineers"]},{"uuid":"energy","title":"Strange Energy","hasRace":true,"teamType":"monster","acquiredTechnologys":["shipHullFrigate","shipHullDestroyer","shipHullCruiser","shipHullBattleship","gaussTurret3",]}]}
+{"minorEmpires":[],"monsterEmpires":[{"className":"MonsterEmpire","uuid":"amoeba","title":"Amoeba","hasRace":true,"teamType":"monster","acquiredTechnologys":["shipHullFrigate","shipHullDestroyer","shipHullCruiser","shipHullBattleship","laserBeam1","heavyArmorPlating1"]},{"className":"MonsterEmpire","uuid":"serpent","title":"Serpent","hasRace":true,"teamType":"monster","acquiredTechnologys":["shipHullFrigate","shipHullDestroyer","shipHullCruiser","shipHullBattleship","gaussTurret1",],"raceAttributes":["combatPilots"]},{"className":"MonsterEmpire","uuid":"crystal","title":"Crystal","hasRace":true,"teamType":"monster","acquiredTechnologys":["shipHullFrigate","shipHullDestroyer","shipHullCruiser","shipHullBattleship","ionPulseCannon1",],"raceAttributes":["combatPilots","fantasticEngineers"]},{"className":"MonsterEmpire","uuid":"energy","title":"Strange Energy","hasRace":true,"teamType":"monster","acquiredTechnologys":["shipHullFrigate","shipHullDestroyer","shipHullCruiser","shipHullBattleship","gaussTurret3",]}]}
 """###
     }
 }
@@ -17,4 +17,4 @@ public extension SOPediaPamphlet {
     }
 }
 
-private let gzip_data = Data(base64Encoded:"H4sIAAAAAAACA82RsW6EMAyGX6XKzHLqdhtHr+qIemwVg+HcECk41HEqoRPvXnMSCLaOjPn82/EnPwz2g2OM5vz1MCm5uzkb6AM2YDIjTjwqyBfQQfyEVpFwQq0j9NU4zJE+UBRkzUD7k3TivcK2o+CDHefhJnZu+Ejev7OzIKjBhbxhFA7js3lhBScXd+QCosvML4UetHjR30/zUgi/Y8594NKDOLInU0/ZaqPJAUk2OreVHMXHQoqxSswoalRnhnWrXIRdk+R5HNOGvgEpnQ8Sd34tj1HAb/yKlRzFzwUqk49YAFGgfylm5htIIIprr2QdIfLeGwnZjtuzCgNZfLkuhQNe91XVp3r6A1gWtcd3AwAA")
+private let gzip_data = Data(base64Encoded:"H4sIAAAAAAACA82SsU4DMQxAfwVlvqVi69aWIhbQCbqhDm5q0kiJc9gO0qnqv+OruOrYbuzoZyf2S3x2OVLhbe4io7jl575xuZAoTtjZ+QQib5DRLd3rNO0aV2s8GoZc8AAWa9Q01K1GcAJ5B29IuaLlEfKu74aSv05WA/672nXHHfoTlVRCPzR2cordS03pmWMAHbqN5AlFufTXwyPbcI3yj6xBbZghMmgOyGvrvhiGQvjpV5wLtwk0Uli4/aWZZWq3dEg6Uf24kXtxDVBFdpUZ1WztU9mmWqlyPFS9fqrzJR9A25iKymx3z70opIn75kbuxT0WamsS3ABRoVn6jfsCUhCNfkshEiLPfxMk5NBP10EZKODDdkzc4VY82rNc9pdfJUmOfgAEAAA=")

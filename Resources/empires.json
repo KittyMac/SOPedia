@@ -1,6 +1,10 @@
 {
-    "empires": [
+    "minorEmpires": [
+        
+    ],
+    "monsterEmpires": [
         {
+            "className": "MonsterEmpire",
             "uuid": "amoeba",
             "title": "Amoeba",
             "hasRace": true,
@@ -15,6 +19,7 @@
             ]
         },
         {
+            "className": "MonsterEmpire",
             "uuid": "serpent",
             "title": "Serpent",
             "hasRace": true,
@@ -31,6 +36,7 @@
             ]
         },
         {
+            "className": "MonsterEmpire",
             "uuid": "crystal",
             "title": "Crystal",
             "hasRace": true,
@@ -48,6 +54,7 @@
             ]
         },
         {
+            "className": "MonsterEmpire",
             "uuid": "energy",
             "title": "Strange Energy",
             "hasRace": true,
