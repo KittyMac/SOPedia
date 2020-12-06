@@ -31,7 +31,7 @@
                 "shipHullBattleship",
                 "gaussTurret1",
             ],
-            "raceAttributes": [
+            "raceAttributeTypes": [
                 "combatPilots"
             ]
         },
@@ -48,7 +48,7 @@
                 "shipHullBattleship",
                 "ionPulseCannon1",
             ],
-            "raceAttributes": [
+            "raceAttributeTypes": [
                 "combatPilots",
                 "fantasticEngineers"
             ]

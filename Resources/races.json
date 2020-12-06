@@ -64,53 +64,53 @@
     ],
     
     "races": [                
-        { "uuid": "human", "title":"Human", "longTitle":"The Human Coalition", "standard":true, "attributeUUIDs": [ 
-            "RACE_FREETHINKING", 
-            "RACE_CHARISMATIC", 
-            "RACE_HIGHLY_TRAINED_SMUGGLERS", 
-            "RACE_MONEY_II"
+        { "uuid": "human", "title":"Human", "longTitle":"The Human Coalition", "standard":true, "raceAttributeTypes": [ 
+            "freethinking", 
+            "charismatic", 
+            "highlyTrainedSmugglers", 
+            "money2"
         ]},
-        { "uuid": "isather", "title":"Isather", "longTitle":"The Isather Dominion", "standard":true, "attributeUUIDs": [ 
-            "RACE_RESEARCH_I", 
-            "RACE_REPULSIVE", 
-            "RACE_GROWTH_II", 
-            "RACE_INDUSTRY_III", 
-            "RACE_BATTLE_HARDENED", 
-            "RACE_SANCTIONED_PIRACY", 
-            "RACE_NATURAL_TINKERS"
+        { "uuid": "isather", "title":"Isather", "longTitle":"The Isather Dominion", "standard":true, "raceAttributeTypes": [ 
+            "research1", 
+            "repulsive", 
+            "growth2", 
+            "industry3", 
+            "battleHardened", 
+            "sanctionedPiracy", 
+            "naturalTinkers"
         ]},
-        { "uuid": "draske", "title":"Draske", "longTitle":"The Draske Hegemony", "standard":true, "attributeUUIDs": [ 
-            "RACE_MONEY_I", 
-            "RACE_GROWTH_I", 
-            "RACE_RICH_HOMEWORLD", 
-            "RACE_FARMING_II", 
-            "RACE_GALACTIC_NAVIGATORS", 
-            "RACE_COMBAT_PILOTS", 
-            "RACE_PERSNICKETY", 
-            "RACE_BROAD_FIELD_EXPERIMENTALISTS"
+        { "uuid": "draske", "title":"Draske", "longTitle":"The Draske Hegemony", "standard":true, "raceAttributeTypes": [ 
+            "money1", 
+            "growth1", 
+            "richHomeworld", 
+            "farming2", 
+            "galacticNavigators", 
+            "combatPilots", 
+            "persnickety", 
+            "broadFieldExperimentalists"
         ]},
-        { "uuid": "cyban", "title":"Cyban", "longTitle":"The Community of Cybans", "standard":true, "attributeUUIDs": [ 
-            "RACE_GROWTH_I", 
-            "RACE_POOR_HOMEWORLD", 
-            "RACE_RESEARCH_II", 
-            "RACE_TOLERANT", 
-            "RACE_ROBUST_TECHIES", 
-            "RACE_BRILLIANT_RESEARCHERS", 
-            "RACE_HIGHLY_FOCUSED_SCIENTISTS", 
-            "RACE_FANTASTIC_ENGINEERS"
+        { "uuid": "cyban", "title":"Cyban", "longTitle":"The Community of Cybans", "standard":true, "raceAttributeTypes": [ 
+            "growth1", 
+            "poorHomeworld", 
+            "research2", 
+            "tolerant", 
+            "robustTechies", 
+            "brilliantResearchers", 
+            "highlyFocusedScientists", 
+            "fantasticEngineers"
         ]},
-        { "uuid": "vass", "title":"Vass", "longTitle":"The Vass Collective", "standard":true, "attributeUUIDs": [ 
-            "RACE_INDUSTRY_I", 
-            "RACE_REPULSIVE", 
-            "RACE_LARGE_HOMEWORLD", 
-            "RACE_SHARED_INTELLIGENCE", 
-            "RACE_RESEARCH_III"
+        { "uuid": "vass", "title":"Vass", "longTitle":"The Vass Collective", "standard":true, "raceAttributeTypes": [ 
+            "industry1", 
+            "repulsive", 
+            "hugeHomeworld", 
+            "sharedIntelligence", 
+            "research3"
         ]},
-        { "uuid": "uggathaaa", "title":"Uggathaaa", "longTitle":"The Uggathaaa Commune", "standard":true, "attributeUUIDs": [ 
-            "RACE_INDUSTRY_I"
+        { "uuid": "uggathaaa", "title":"Uggathaaa", "longTitle":"The Uggathaaa Commune", "standard":true, "raceAttributeTypes": [ 
+            "industry1"
         ]},
-        { "uuid": "taku", "title":"T'aku", "longTitle":"The T'Aku Junta", "standard":true, "attributeUUIDs": [ 
-            "RACE_INDUSTRY_I"
+        { "uuid": "taku", "title":"T'aku", "longTitle":"The T'Aku Junta", "standard":true, "raceAttributeTypes": [ 
+            "industry1"
         ]}
         
     ]
