@@ -160,31 +160,31 @@
                 {
                     "title": "Hull Design - Destroyer",
                     "shipHullRefinements": [
-                        { "uuid":"shipHullFrigate", "cost":200, "shipSize":"1", "structure":100, "armor":100, "targetArrays":1, "weaponSlots":3, "systemSlots":3, "designCost":250 }
+                        { "uuid":"shipHullDestroyer", "cost":200, "shipSize":"1", "structure":100, "armor":100, "targetArrays":1, "weaponSlots":3, "systemSlots":3, "designCost":250 }
                     ]
                 },
                 {
                     "title": "Hull Design - Cruiser",
                     "shipHullRefinements": [
-                        { "uuid":"shipHullFrigate", "cost":400, "shipSize":"2", "structure":190, "armor":190, "targetArrays":2, "weaponSlots":5, "systemSlots":4, "designCost":500 }
+                        { "uuid":"shipHullCruiser", "cost":400, "shipSize":"2", "structure":190, "armor":190, "targetArrays":2, "weaponSlots":5, "systemSlots":4, "designCost":500 }
                     ]
                 },
                 {
                     "title": "Hull Design - Battleship",
                     "shipHullRefinements": [
-                        { "uuid":"shipHullFrigate", "cost":600, "shipSize":"3", "structure":350, "armor":350, "targetArrays":2, "weaponSlots":6, "systemSlots":5, "designCost":750 }
+                        { "uuid":"shipHullBattleship", "cost":600, "shipSize":"3", "structure":350, "armor":350, "targetArrays":2, "weaponSlots":6, "systemSlots":5, "designCost":750 }
                     ]
                 },
                 {
                     "title": "Hull Design - Titan",
                     "shipHullRefinements": [
-                        { "uuid":"shipHullFrigate", "cost":2000, "shipSize":"4", "structure":750, "armor":750, "targetArrays":4, "weaponSlots":8, "systemSlots":6, "designCost":1500 }
+                        { "uuid":"shipHullTitan", "cost":2000, "shipSize":"4", "structure":750, "armor":750, "targetArrays":4, "weaponSlots":8, "systemSlots":6, "designCost":1500 }
                     ]
                 },
                 {
                     "title": "Hull Design - Mammoth",
                     "shipHullRefinements": [
-                        { "uuid":"shipHullFrigate", "cost":4000, "shipSize":"5", "structure":1200, "armor":1200, "targetArrays":4, "weaponSlots":10, "systemSlots":8, "designCost":2500 }
+                        { "uuid":"shipHullMammoth", "cost":4000, "shipSize":"5", "structure":1200, "armor":1200, "targetArrays":4, "weaponSlots":10, "systemSlots":8, "designCost":2500 }
                     ]
                 },
                 {
