@@ -1,13 +1,13 @@
 {
     "buildings": [
-        { "uuid":"economicHoarding", "title": "Economic Hoarding", "cost":999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
-        { "uuid":"economicFunding", "title": "Economic Funding", "cost":999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
-        { "uuid":"economicCivic", "title": "Civic Funding", "cost":999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
+        { "uuid":"economicHoarding", "title": "Economic Hoarding", "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
+        { "uuid":"economicFunding", "title": "Economic Funding", "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
+        { "uuid":"economicCivic", "title": "Civic Funding", "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
         
-        { "uuid":"focusIndustry", "title": "Build Focus: Industry", "cost":999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
-        { "uuid":"focusResearch", "title": "Build Focus: Research", "cost":999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
-        { "uuid":"focusFarming", "title": "Build Focus: Farming", "cost":999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
-        { "uuid":"focusMilitary", "title": "Build Focus: Military", "cost":999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
+        { "uuid":"focusIndustry", "title": "Build Focus: Industry", "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
+        { "uuid":"focusResearch", "title": "Build Focus: Research", "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
+        { "uuid":"focusFarming", "title": "Build Focus: Farming", "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
+        { "uuid":"focusMilitary", "title": "Build Focus: Military", "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
         
         { "uuid":"planetaryExpansion", "title": "Planetary Expansion", "cost":200, "upkeep":0, "space":0 },
         { "uuid":"colonyShip", "title": "Colony Ship", "cost":500, "upkeep":0, "space":0 },
