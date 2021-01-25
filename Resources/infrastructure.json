@@ -1,26 +1,26 @@
 {
     "buildings": [
-        { "uuid":"economicHoarding", "title": "Economic Hoarding", "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
-        { "uuid":"economicFunding", "title": "Economic Funding", "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
-        { "uuid":"economicCivic", "title": "Civic Funding", "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
+        { "uuid":"economicHoarding", "title": "Economic Hoarding", "special":true, "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
+        { "uuid":"economicFunding", "title": "Economic Funding", "special":true, "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
+        { "uuid":"economicCivic", "title": "Civic Funding", "special":true, "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
         
-        { "uuid":"focusIndustry", "title": "Build Focus: Industry", "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
-        { "uuid":"focusResearch", "title": "Build Focus: Research", "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
-        { "uuid":"focusFarming", "title": "Build Focus: Farming", "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
-        { "uuid":"focusMilitary", "title": "Build Focus: Military", "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
+        { "uuid":"focusIndustry", "title": "Build Focus: Industry", "special":true, "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
+        { "uuid":"focusResearch", "title": "Build Focus: Research", "special":true, "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
+        { "uuid":"focusFarming", "title": "Build Focus: Farming", "special":true, "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
+        { "uuid":"focusMilitary", "title": "Build Focus: Military", "special":true, "cost":9999999, "upkeep":0, "space":0, "singleton":true, "fortification":false, "bonusType":0 },
         
-        { "uuid":"planetaryExpansion", "title": "Planetary Expansion", "cost":200, "upkeep":0, "space":0 },
-        { "uuid":"colonyShip", "title": "Colony Ship", "cost":500, "upkeep":0, "space":0 },
-        { "uuid":"advancedColonyShip", "title": "Colony Ship II", "cost":500, "upkeep":0, "space":0 },
-        { "uuid":"advancedColonyShip2", "title": "Colony Ship III", "cost":450, "upkeep":0, "space":0 },
-        { "uuid":"advancedColonyShip2", "title": "Colony Ship III", "cost":350, "upkeep":0, "space":0 },
+        { "uuid":"planetaryExpansion", "title": "Planetary Expansion", "special":true, "cost":200, "upkeep":0, "space":0 },
+        { "uuid":"colonyShip", "title": "Colony Ship", "special":true, "cost":500, "upkeep":0, "space":0 },
+        { "uuid":"advancedColonyShip", "title": "Colony Ship II", "special":true, "cost":500, "upkeep":0, "space":0 },
+        { "uuid":"advancedColonyShip2", "title": "Colony Ship III", "special":true, "cost":450, "upkeep":0, "space":0 },
+        { "uuid":"advancedColonyShip2", "title": "Colony Ship III", "special":true, "cost":350, "upkeep":0, "space":0 },
         
-        { "uuid":"transportShip", "title": "Troop Ship", "cost":150, "upkeep":0, "space":0 },
+        { "uuid":"transportShip", "title": "Troop Ship", "special":true, "cost":150, "upkeep":0, "space":0 },
         
-        { "uuid":"terraforming", "title": "Terraforming", "cost":900, "upkeep":0, "space":0, "techDependencys": [ "terraforming" ]},
-        { "uuid":"gaiaDevice", "title": "Gaia Device", "cost":1300, "upkeep":0, "space":0, "techDependencys": [ "gaiaDevice" ]},
+        { "uuid":"terraforming", "title": "Terraforming", "special":true, "cost":900, "upkeep":0, "space":0, "techDependencys": [ "terraforming" ]},
+        { "uuid":"gaiaDevice", "title": "Gaia Device", "special":true, "cost":1300, "upkeep":0, "space":0, "techDependencys": [ "gaiaDevice" ]},
         
-        { "uuid":"hatchery", "title": "Hatchery", "cost":2000, "upkeep":0, "space":0, "singleton":true },
+        { "uuid":"hatchery", "title": "Hatchery", "special":true, "cost":2000, "upkeep":0, "space":0, "singleton":true },
         
         { "uuid":"warpGate1", "title": "Warp Gate I", "cost":300, "upkeep":3, "space":0, "singleton":true, "fortification":true, "techDependencys": [ "warpGate1" ]},
         { "uuid":"warpGate2", "title": "Warp Gate II", "cost":600, "upkeep":3, "space":0, "singleton":true, "fortification":true, "techDependencys": [ "warpGate2" ], "upgradesBuildings": [ "warpGate1" ]},
