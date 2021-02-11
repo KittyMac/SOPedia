@@ -5,8 +5,8 @@ import Foundation
 public enum SOPediaPamphlet {
     public static func get(string member: String) -> String? {
         switch member {
-        case "/empires.json": return SOPediaPamphlet.EmpiresJson()
         case "/en.json": return SOPediaPamphlet.EnJson()
+        case "/empires.json": return SOPediaPamphlet.EmpiresJson()
         case "/infrastructure.json": return SOPediaPamphlet.InfrastructureJson()
         case "/races.json": return SOPediaPamphlet.RacesJson()
         case "/technology.json": return SOPediaPamphlet.TechnologyJson()
@@ -16,8 +16,8 @@ public enum SOPediaPamphlet {
     }
     public static func get(gzip member: String) -> Data? {
         switch member {
-        case "/empires.json": return SOPediaPamphlet.EmpiresJsonGzip()
         case "/en.json": return SOPediaPamphlet.EnJsonGzip()
+        case "/empires.json": return SOPediaPamphlet.EmpiresJsonGzip()
         case "/infrastructure.json": return SOPediaPamphlet.InfrastructureJsonGzip()
         case "/races.json": return SOPediaPamphlet.RacesJsonGzip()
         case "/technology.json": return SOPediaPamphlet.TechnologyJsonGzip()
