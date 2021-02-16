@@ -1,0 +1,1 @@
+Advancing in the torpedo's casing allow for a larger payload of protonic energy. Torpedos are heavily armored providing them with more resistance to point defense systems.

@@ -1,0 +1,1 @@
+Advances in energy flow allow this upgraded device to launch the projectiles more fluently.

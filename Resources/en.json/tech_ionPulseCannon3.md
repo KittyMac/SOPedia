@@ -1,0 +1,1 @@
+Introducing xentronium particles into the pulse allows this weapon to reach maximum destructive power. Damage to energy shields will induce an overload causing bonus structure damage to the target. Can only be equipped on Battleships, Titans, Mammoths, and Starbases.

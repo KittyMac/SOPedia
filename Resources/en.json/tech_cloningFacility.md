@@ -1,0 +1,1 @@
+Increases population growth by 100k per turn

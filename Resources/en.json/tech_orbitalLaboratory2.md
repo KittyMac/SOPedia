@@ -1,0 +1,1 @@
+A semi-automated orbital laboratory that increases research production by +2 RP per scientist or +30% total RP, whichever is higher.

@@ -1,0 +1,1 @@
+A powerful jamming device capable of disrupting incoming missiles and torpedos targeting systems. Provides a 15% to 30% chance of completely evading an incoming missile or torpedo (smaller chance of evasion the larger the ship). Suffers a 2x stacking penalty to cost.

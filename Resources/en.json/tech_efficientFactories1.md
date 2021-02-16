@@ -1,0 +1,1 @@
+Advanced factories which increase industrial production by +1 for each worker.

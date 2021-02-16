@@ -1,0 +1,1 @@
+An orbital defense platform charged with defending the star system from enemy attack. Heals ships in the system by 20% of their total health each turn.

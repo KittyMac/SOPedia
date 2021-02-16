@@ -1,0 +1,1 @@
+Chemical research has discovered a method of exciting the plasma even further, allowing the energy to grow to even more dangerous proportions.

@@ -1,0 +1,1 @@
+Advances in leader management allows your empire to recruit up to three leaders.

@@ -1,0 +1,1 @@
+Orbital bombardment is no simple matter; this package contains everything a ship needs in order to lay waste to the surface of a planet. May only be equipped by Cruiser class ships and above. Suffers a 2x stacking penalty to cost.

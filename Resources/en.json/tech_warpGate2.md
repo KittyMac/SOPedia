@@ -1,0 +1,1 @@
+A breakthrough in wormhole technology, these advanced warp gates allow ships to travel to between warp gate in a single turn.

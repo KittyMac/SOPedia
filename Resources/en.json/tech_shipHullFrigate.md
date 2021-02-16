@@ -1,0 +1,1 @@
+Unlocks the ability to design and build frigate class starships.

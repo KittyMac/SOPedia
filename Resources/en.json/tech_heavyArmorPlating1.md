@@ -1,0 +1,1 @@
+Metallurgical advances can discover a way to increase a ship's effective armor capacity by 15% + 5 points. Suffers a 2x stacking penalty to cost.

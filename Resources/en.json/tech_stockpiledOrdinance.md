@@ -1,0 +1,1 @@
+Store additional ordinance on your ship, increase the ammo of all equipped missiles and torpedos by 1. Suffers a 2x stacking penalty to cost

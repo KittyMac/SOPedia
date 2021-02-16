@@ -1,0 +1,1 @@
+Space torpedos capable of delivering a large payload of explosive protonic energy. Torpedos are heavily armored providing them with more resistance to point defense systems.

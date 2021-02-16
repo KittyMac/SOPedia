@@ -1,0 +1,1 @@
+Provides an additional system slot to all hull designs in your empire.

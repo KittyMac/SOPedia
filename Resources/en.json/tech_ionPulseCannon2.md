@@ -1,0 +1,1 @@
+Further alignment of the device allows for denser ionic particles in the stream, increasing the effectiveness. Damage to energy shields will induce an overload causing bonus structure damage to the target. Can only be equipped on Battleships, Titans, Mammoths, and Starbases.

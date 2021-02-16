@@ -1,0 +1,1 @@
+A laboratory that increases research production +2 for each scientist.
