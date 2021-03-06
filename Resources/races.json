@@ -64,13 +64,13 @@
     ],
     
     "races": [                
-        { "uuid": "human", "title":"Human", "longTitle":"The Human Coalition", "standard":true, "raceAttributeTypes": [ 
+        { "uuid": "standard_human", "raceType": "human", "title":"Human", "longTitle":"The Human Coalition", "standard":true, "raceAttributeTypes": [ 
             "freethinking", 
             "charismatic", 
             "highlyTrainedSmugglers", 
             "money2"
         ]},
-        { "uuid": "isather", "title":"Isather", "longTitle":"The Isather Dominion", "standard":true, "raceAttributeTypes": [ 
+        { "uuid": "standard_isather", "raceType": "isather", "title":"Isather", "longTitle":"The Isather Dominion", "standard":true, "raceAttributeTypes": [ 
             "research1", 
             "repulsive", 
             "growth2", 
@@ -79,7 +79,7 @@
             "sanctionedPiracy", 
             "naturalTinkers"
         ]},
-        { "uuid": "draske", "title":"Draske", "longTitle":"The Draske Hegemony", "standard":true, "raceAttributeTypes": [ 
+        { "uuid": "standard_draske", "raceType": "draske", "title":"Draske", "longTitle":"The Draske Hegemony", "standard":true, "raceAttributeTypes": [ 
             "money1", 
             "growth1", 
             "richHomeworld", 
@@ -89,7 +89,7 @@
             "persnickety", 
             "broadFieldExperimentalists"
         ]},
-        { "uuid": "cyban", "title":"Cyban", "longTitle":"The Community of Cybans", "standard":true, "raceAttributeTypes": [ 
+        { "uuid": "standard_cyban", "raceType": "cyban", "title":"Cyban", "longTitle":"The Community of Cybans", "standard":true, "raceAttributeTypes": [ 
             "growth1", 
             "poorHomeworld", 
             "research2", 
@@ -99,17 +99,17 @@
             "highlyFocusedScientists", 
             "fantasticEngineers"
         ]},
-        { "uuid": "vass", "title":"Vass", "longTitle":"The Vass Collective", "standard":true, "raceAttributeTypes": [ 
+        { "uuid": "standard_vass", "raceType": "vass", "title":"Vass", "longTitle":"The Vass Collective", "standard":true, "raceAttributeTypes": [ 
             "industry1", 
             "repulsive", 
             "hugeHomeworld", 
             "sharedIntelligence", 
             "research3"
         ]},
-        { "uuid": "uggathaaa", "title":"Uggathaaa", "longTitle":"The Uggathaaa Commune", "standard":true, "raceAttributeTypes": [ 
+        { "uuid": "standard_uggathaaa", "raceType": "uggathaaa", "title":"Uggathaaa", "longTitle":"The Uggathaaa Commune", "standard":true, "raceAttributeTypes": [ 
             "industry1"
         ]},
-        { "uuid": "taku", "title":"T'aku", "longTitle":"The T'Aku Junta", "standard":true, "raceAttributeTypes": [ 
+        { "uuid": "standard_taku", "raceType": "taku", "title":"T'aku", "longTitle":"The T'Aku Junta", "standard":true, "raceAttributeTypes": [ 
             "industry1"
         ]}
         
