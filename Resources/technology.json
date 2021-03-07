@@ -394,13 +394,13 @@
                 {
                     "title": "Auxiliary Thrusters",
                     "shipSystemRefinements": [
-                        { "uuid":"auxiliaryThrusters", "cost":275, "designCost":"50", "value1":"0", "value2":"0", "stackingPenalty":"2" }
+                        { "uuid":"auxiliaryThrusters", "cost":275, "designCost":50, "value1":"0", "value2":"0", "stackingPenalty":"2" }
                     ]
                 },
                 {
                     "title": "Combat Engines",
                     "shipSystemRefinements": [
-                        { "uuid":"auxiliaryThrusters", "cost":250, "designCost":"50", "value1":"0", "value2":"0", "stackingPenalty":"2" }
+                        { "uuid":"combatEngines", "cost":250, "designCost":50, "value1":"0", "value2":"0", "stackingPenalty":"2" }
                     ]
                 }
             ]
