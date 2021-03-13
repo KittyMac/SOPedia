@@ -1,47 +1,47 @@
 {
     "attributes": [
-        { "order":1, "uuid": "farming1", "title": "Inadequate Farmers", "cost": -3, "modifier": -1, "group": "FARMING" },
-        { "order":2, "uuid": "farming2", "title": "Proficient Farmers", "cost": 3, "modifier": 1.5, "group": "FARMING" },
-        { "order":3, "uuid": "farming3", "title": "Plant Whisperers", "cost": 6, "modifier": 6, "group": "FARMING" },
+        { "order":1, "uuid": "farming1", "title": "Inadequate Farmers", "cost": -3, "modifier": -1, "group": "Farming" },
+        { "order":2, "uuid": "farming2", "title": "Proficient Farmers", "cost": 3, "modifier": 1.5, "group": "Farming" },
+        { "order":3, "uuid": "farming3", "title": "Plant Whisperers", "cost": 6, "modifier": 6, "group": "Farming" },
         
-        { "order":4, "uuid": "industry1", "title": "Slow as Sloths", "cost": -3, "modifier": -0.5, "group": "INDUSTRY" },
-        { "order":5, "uuid": "industry2", "title": "Industrious Individuals", "cost": 3, "modifier": 1, "group": "INDUSTRY" },
-        { "order":6, "uuid": "industry3", "title": "Amazing Industrialists", "cost": 6, "modifier": 2, "group": "INDUSTRY" },
+        { "order":4, "uuid": "industry1", "title": "Slow as Sloths", "cost": -3, "modifier": -0.5, "group": "Industry" },
+        { "order":5, "uuid": "industry2", "title": "Industrious Individuals", "cost": 3, "modifier": 1, "group": "Industry" },
+        { "order":6, "uuid": "industry3", "title": "Amazing Industrialists", "cost": 6, "modifier": 2, "group": "Industry" },
         
-        { "order":7, "uuid": "research1", "title": "Slow Thinkers", "cost": -3, "modifier": -0.5, "group": "RESEARCH" },
-        { "order":8, "uuid": "research2", "title": "Quick Thinkers", "cost": 3, "modifier": 1.5, "group": "RESEARCH" },
-        { "order":9, "uuid": "research3", "title": "Borderline Genius", "cost": 6, "modifier": 3, "group": "RESEARCH" },
+        { "order":7, "uuid": "research1", "title": "Slow Thinkers", "cost": -3, "modifier": -0.5, "group": "Research" },
+        { "order":8, "uuid": "research2", "title": "Quick Thinkers", "cost": 3, "modifier": 1.5, "group": "Research" },
+        { "order":9, "uuid": "research3", "title": "Borderline Genius", "cost": 6, "modifier": 3, "group": "Research" },
         
-        { "order":10, "uuid": "money1", "title": "Thrift Spenders", "cost": -3, "modifier": -0.5, "group": "FINANCE" },
-        { "order":11, "uuid": "money2", "title": "Prosperous Businessmen", "cost": 3, "modifier": 0.75, "group": "FINANCE" },
-        { "order":12, "uuid": "money3", "title": "Money Lenders", "cost": 6, "modifier": 1.5, "group": "FINANCE" },
+        { "order":10, "uuid": "money1", "title": "Thrift Spenders", "cost": -3, "modifier": -0.5, "group": "Finance" },
+        { "order":11, "uuid": "money2", "title": "Prosperous Businessmen", "cost": 3, "modifier": 0.75, "group": "Finance" },
+        { "order":12, "uuid": "money3", "title": "Money Lenders", "cost": 6, "modifier": 1.5, "group": "Finance" },
         
-        { "order":13, "uuid": "growth1", "title": "Old Fashioned", "cost": -3, "modifier": -0.5, "group": "POPULATION" },
-        { "order":14, "uuid": "growth2", "title": "Fertile Biology", "cost": 3, "modifier": 0.5, "group": "POPULATION" },
-        { "order":15, "uuid": "growth3", "title": "Baby Boomers", "cost": 6, "modifier": 1, "group": "POPULATION" },
+        { "order":13, "uuid": "growth1", "title": "Old Fashioned", "cost": -3, "modifier": -0.5, "group": "Population" },
+        { "order":14, "uuid": "growth2", "title": "Fertile Biology", "cost": 3, "modifier": 0.5, "group": "Population" },
+        { "order":15, "uuid": "growth3", "title": "Baby Boomers", "cost": 6, "modifier": 1, "group": "Population" },
         
-        { "order":16, "uuid": "lowGravityHomeworld", "title": "Low Gravity Affinity", "cost": -3, "group": "GRAVITATIONAL AFFINITY" },
-        { "order":17, "uuid": "highGravityHomeworld", "title": "High Gravity Affinity", "cost": 1, "group": "GRAVITATIONAL AFFINITY" },
+        { "order":16, "uuid": "lowGravityHomeworld", "title": "Low Gravity Affinity", "cost": -3, "group": "Gravitational Affinity" },
+        { "order":17, "uuid": "highGravityHomeworld", "title": "High Gravity Affinity", "cost": 1, "group": "Gravitational Affinity" },
         
-        { "order":18, "uuid": "hugeHomeworld", "title": "Huge Homeworld", "cost": 2, "group": "HOMEWORLD SIZE" },
-        { "order":19, "uuid": "mediumHomeworld", "title": "Medium Homeworld", "cost": -3, "group": "HOMEWORLD SIZE" },
-        { "order":20, "uuid": "smallHomeworld", "title": "Small Homeworld", "cost": -4, "group": "HOMEWORLD SIZE" },
+        { "order":18, "uuid": "hugeHomeworld", "title": "Huge Homeworld", "cost": 2, "group": "Homeworld Size" },
+        { "order":19, "uuid": "mediumHomeworld", "title": "Medium Homeworld", "cost": -3, "group": "Homeworld Size" },
+        { "order":20, "uuid": "smallHomeworld", "title": "Small Homeworld", "cost": -4, "group": "Homeworld Size" },
         
-        { "order":21, "uuid": "richHomeworld", "title": "Rich Homeworld", "cost": 2, "group": "HOMEWORLD MINERAL" },
-        { "order":22, "uuid": "poorHomeworld", "title": "Poor Homeworld", "cost": -2, "group": "HOMEWORLD MINERAL" },
+        { "order":21, "uuid": "richHomeworld", "title": "Rich Homeworld", "cost": 2, "group": "Homeworld Mineral" },
+        { "order":22, "uuid": "poorHomeworld", "title": "Poor Homeworld", "cost": -2, "group": "Homeworld Mineral" },
         
-        { "order":23, "uuid": "naturalTinkers", "title": "Natural Tinkers", "cost": 2, "group": "NATIONAL HOBBY" },
-        { "order":24, "uuid": "robustTechies", "title": "Robust Techies", "cost": 2, "group": "NATIONAL HOBBY" },
+        { "order":23, "uuid": "naturalTinkers", "title": "Natural Tinkers", "cost": 2, "group": "National Hobby" },
+        { "order":24, "uuid": "robustTechies", "title": "Robust Techies", "cost": 2, "group": "National Hobby" },
         
-        { "order":25, "uuid": "broadFieldExperimentalists", "title": "Broad Field Experimentalists", "cost": 1, "group": "SCIENTIFIC IMPERATIVE" },
-        { "order":26, "uuid": "highlyFocusedScientists", "title": "Highly Focused Scientists", "cost": 1, "group": "SCIENTIFIC IMPERATIVE" },
+        { "order":25, "uuid": "broadFieldExperimentalists", "title": "Broad Field Experimentalists", "cost": 1, "group": "Scientific Imperative" },
+        { "order":26, "uuid": "highlyFocusedScientists", "title": "Highly Focused Scientists", "cost": 1, "group": "Scientific Imperative" },
         
-        { "order":27, "uuid": "freethinking", "title": "Freethinking", "cost": 2, "group": "UNIVERSAL QUIRK" },
-        { "order":28, "uuid": "persnickety", "title": "Persnickety", "cost": 4, "group": "UNIVERSAL QUIRK" },
-        { "order":29, "uuid": "sharedIntelligence", "title": "Shared Intelligence", "cost": 6, "group": "UNIVERSAL QUIRK" },
+        { "order":27, "uuid": "freethinking", "title": "Freethinking", "cost": 2, "group": "Universal Quirk" },
+        { "order":28, "uuid": "persnickety", "title": "Persnickety", "cost": 4, "group": "Universal Quirk" },
+        { "order":29, "uuid": "sharedIntelligence", "title": "Shared Intelligence", "cost": 6, "group": "Universal Quirk" },
         
-        { "order":30, "uuid": "charismatic", "title": "Charismatic", "cost": 2, "group": "BEAUTY & BEAST" },
-        { "order":31, "uuid": "repulsive", "title": "Repulsive", "cost": -2, "group": "BEAUTY & BEAST" },
+        { "order":30, "uuid": "charismatic", "title": "Charismatic", "cost": 2, "group": "Beauty & Beast" },
+        { "order":31, "uuid": "repulsive", "title": "Repulsive", "cost": -2, "group": "Beauty & Beast" },
         
         { "order":32, "uuid": "galacticNavigators", "title": "Galactic Navigators", "cost": 2 },
         
