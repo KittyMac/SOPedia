@@ -62,13 +62,14 @@
     ],
     
     "races": [                
-        { "uuid": "standard_human", "raceType": "human", "title":"Human", "longTitle":"The Human Coalition", "standard":true, "raceAttributeTypes": [ 
+        { "uuid": "standard_human", "raceType": "human", "title":"Human", "longTitle":"The Human Coalition", "standard":true, "biography":"race_human.md", "raceAttributeTypes": [ 
             "freethinking", 
             "charismatic", 
             "highlyTrainedSmugglers", 
             "money2"
-        ]},
-        { "uuid": "standard_isather", "raceType": "isather", "title":"Isather", "longTitle":"The Isather Dominion", "standard":true, "raceAttributeTypes": [ 
+        ],
+        },
+        { "uuid": "standard_isather", "raceType": "isather", "title":"Isather", "longTitle":"The Isather Dominion", "standard":true, "biography":"race_isather.md", "raceAttributeTypes": [ 
             "research1", 
             "repulsive", 
             "growth2", 
@@ -77,7 +78,7 @@
             "sanctionedPiracy", 
             "naturalTinkers"
         ]},
-        { "uuid": "standard_draske", "raceType": "draske", "title":"Draske", "longTitle":"The Draske Hegemony", "standard":true, "raceAttributeTypes": [ 
+        { "uuid": "standard_draske", "raceType": "draske", "title":"Draske", "longTitle":"The Draske Hegemony", "standard":true, "biography":"race_draske.md", "raceAttributeTypes": [ 
             "money1", 
             "growth1", 
             "richHomeworld", 
@@ -87,7 +88,7 @@
             "persnickety", 
             "broadFieldExperimentalists"
         ]},
-        { "uuid": "standard_cyban", "raceType": "cyban", "title":"Cyban", "longTitle":"The Community of Cybans", "standard":true, "raceAttributeTypes": [ 
+        { "uuid": "standard_cyban", "raceType": "cyban", "title":"Cyban", "longTitle":"The Community of Cybans", "standard":true, "biography":"race_cyban.md", "raceAttributeTypes": [ 
             "growth1", 
             "poorHomeworld", 
             "research2", 
@@ -97,17 +98,17 @@
             "highlyFocusedScientists", 
             "fantasticEngineers"
         ]},
-        { "uuid": "standard_vass", "raceType": "vass", "title":"Vass", "longTitle":"The Vass Collective", "standard":true, "raceAttributeTypes": [ 
+        { "uuid": "standard_vass", "raceType": "vass", "title":"Vass", "longTitle":"The Vass Collective", "standard":true, "biography":"race_vass.md", "raceAttributeTypes": [ 
             "industry1", 
             "repulsive", 
             "hugeHomeworld", 
             "sharedIntelligence", 
             "research3"
         ]},
-        { "uuid": "standard_uggathaaa", "raceType": "uggathaaa", "title":"Uggathaaa", "longTitle":"The Uggathaaa Commune", "standard":true, "raceAttributeTypes": [ 
+        { "uuid": "standard_uggathaaa", "raceType": "uggathaaa", "title":"Uggathaaa", "longTitle":"The Uggathaaa Commune", "standard":true, "biography":"race_uggathaaa.md", "raceAttributeTypes": [ 
             "industry1"
         ]},
-        { "uuid": "standard_taku", "raceType": "taku", "title":"T'aku", "longTitle":"The T'Aku Junta", "standard":true, "raceAttributeTypes": [ 
+        { "uuid": "standard_taku", "raceType": "taku", "title":"T'aku", "longTitle":"The T'Aku Junta", "standard":true, "biography":"race_taku.md", "raceAttributeTypes": [ 
             "industry1"
         ]}
         
