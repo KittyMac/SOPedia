@@ -25,8 +25,8 @@ then
     sudo apt-get install docker-ce docker-ce-cli containerd.io
 
     # set the hostname
-    sed -i 's/odroid/odroid${N}/g' /etc/hostname
-    sed -i 's/odroid/odroid${N}/g' /etc/hosts
+    sed -i "s/odroid[0-9]*/odroid${N}/g" /etc/hostname
+    sed -i "s/odroid[0-9]*/odroid${N}/g" /etc/hosts
 
     # set static IP address
     printf "network:\n${S}ethernets:\n${S}${S}eth0:\n${S}${S}${S}dhcp4: no\n${S}${S}${S}addresses:\n${S}${S}${S} - 192.168.1.${N}/24\n${S}${S}${S}gateway4: 192.168.1.254\n${S}${S}${S}nameservers:\n${S}${S}${S}${S}addresses: [8.8.8.8, 1.1.1.1]\n${S}version: 2\n" > /etc/netplan/50-cloud-init.yaml
