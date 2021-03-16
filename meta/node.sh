@@ -9,6 +9,8 @@ read -p 'Enter 192.168.1.XXX: ' N
 read -p "Initialize node as odroid${N} @ 192.168.1.${N}. Are you sure? " -n 1 -r
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
+    echo default-on > /sys/class/leds/blue\:heartbeat/trigger
+    
     # install docker
     sudo apt-get -q remove -y docker docker-engine docker.io containerd runc
     sudo apt-get -q update -y
