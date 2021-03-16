@@ -34,5 +34,8 @@ then
 
     # apply and reboot
     sudo netplan apply
+    
+    echo "Finished!"
+    
     sudo reboot
 fi
