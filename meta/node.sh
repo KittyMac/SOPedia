@@ -1,10 +1,11 @@
 #!/bin/bash
 
-N="$1"
 S="    "
 
-read -p "Creating node 192.168.1.$1. Are you sure? " -n 1 -r
-echo    # (optional) move to a new line
+read -p 'Enter 192.168.1.XXX: ' N
+
+
+read -p "Initialize node as odroid${N} @ 192.168.1.${N}. Are you sure? " -n 1 -r
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
     # install docker
