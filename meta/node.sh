@@ -9,8 +9,8 @@ read -p "Initialize node as odroid${N} @ 192.168.1.${N}. Are you sure? " -n 1 -r
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
     # install docker
-    sudo apt-get remove docker docker-engine docker.io containerd runc
-    sudo apt-get update
+    sudo apt-get -q remove -y docker docker-engine docker.io containerd runc
+    sudo apt-get -q update -y
     sudo apt-get -q install -y \
         apt-transport-https \
         ca-certificates \
@@ -22,7 +22,7 @@ then
     curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
     echo "deb [arch=armhf signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 
-    sudo apt-get update
+    sudo apt-get -q update -y
     sudo apt-get -q install -y docker-ce docker-ce-cli containerd.io
 
     # set the hostname
