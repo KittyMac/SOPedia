@@ -2,8 +2,9 @@
 
 S="    "
 
-read -p 'Enter 192.168.1.XXX: ' N
+echo default-on > /sys/class/leds/blue\:heartbeat/trigger
 
+read -p 'Enter 192.168.1.XXX: ' N
 
 read -p "Initialize node as odroid${N} @ 192.168.1.${N}. Are you sure? " -n 1 -r
 if [[ $REPLY =~ ^[Yy]$ ]]
