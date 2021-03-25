@@ -22,7 +22,11 @@ then
         software-properties-common \
         htop
 
-    curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+    if [[ -f "/usr/share/keyrings/docker-archive-keyring.gpg" ]]; then
+        
+    else
+        curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+    fi
     
     if [[ "$ARCH" == "aarch64" ]]; then
         echo "deb [arch=arm64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
@@ -34,8 +38,10 @@ then
     sudo apt-get -q install -y docker-ce docker-ce-cli containerd.io
 
     # set the hostname
-    sudo sed -i "s/cluster[0-9]*/cluster${N}/g" /etc/hostname
-    sudo sed -i "s/cluster[0-9]*/cluster${N}/g" /etc/hosts
+    sudo sed -i "s/ubuntu[0-9]*/cluster${N}/g" /etc/hostname
+    sudo sed -i "s/odroid[0-9]*/cluster${N}/g" /etc/hostname
+    sudo sed -i "s/ubuntu[0-9]*/cluster${N}/g" /etc/hosts
+    sudo sed -i "s/odroid[0-9]*/cluster${N}/g" /etc/hosts
     
     # join the docker swarm
     if [[ "$SWARM_TOKEN" == "" ]]; then
