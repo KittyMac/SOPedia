@@ -34,8 +34,8 @@ then
     sudo apt-get -q install -y docker-ce docker-ce-cli containerd.io
 
     # set the hostname
-    sed -i "s/cluster[0-9]*/cluster${N}/g" /etc/hostname
-    sed -i "s/cluster[0-9]*/cluster${N}/g" /etc/hosts
+    sudo sed -i "s/cluster[0-9]*/cluster${N}/g" /etc/hostname
+    sudo sed -i "s/cluster[0-9]*/cluster${N}/g" /etc/hosts
     
     # join the docker swarm
     if [[ "$SWARM_TOKEN" == "" ]]; then
@@ -45,7 +45,7 @@ then
     fi
 
     # set static IP address
-    printf "network:\n${S}ethernets:\n${S}${S}eth0:\n${S}${S}${S}dhcp4: no\n${S}${S}${S}addresses:\n${S}${S}${S} - 192.168.1.${N}/24\n${S}${S}${S}gateway4: 192.168.1.254\n${S}${S}${S}nameservers:\n${S}${S}${S}${S}addresses: [8.8.8.8, 1.1.1.1]\n${S}version: 2\n" >| /etc/netplan/50-cloud-init.yaml
+    sudo printf "network:\n${S}ethernets:\n${S}${S}eth0:\n${S}${S}${S}dhcp4: no\n${S}${S}${S}addresses:\n${S}${S}${S} - 192.168.1.${N}/24\n${S}${S}${S}gateway4: 192.168.1.254\n${S}${S}${S}nameservers:\n${S}${S}${S}${S}addresses: [8.8.8.8, 1.1.1.1]\n${S}version: 2\n" >| /etc/netplan/50-cloud-init.yaml
 
     # apply and reboot
     sudo netplan apply
