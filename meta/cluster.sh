@@ -8,9 +8,9 @@ ARCH=`uname -m`
 
 read -p 'Enter 192.168.1.XXX: ' N
 
-read -p "Initialize node as pi${N} @ 192.168.1.${N}. Are you sure? " -n 1 -r
+read -p "Initialize node as cluster${N} @ 192.168.1.${N}. Are you sure? " -n 1 -r
 if [[ $REPLY =~ ^[Yy]$ ]]
-then    
+then
     # install docker
     sudo apt-get -q remove -y docker docker-engine docker.io containerd runc
     sudo apt-get -q update -y
@@ -34,8 +34,8 @@ then
     sudo apt-get -q install -y docker-ce docker-ce-cli containerd.io
 
     # set the hostname
-    sed -i "s/pi[0-9]*/pi${N}/g" /etc/hostname
-    sed -i "s/pi[0-9]*/pi${N}/g" /etc/hosts
+    sed -i "s/cluster[0-9]*/cluster${N}/g" /etc/hostname
+    sed -i "s/cluster[0-9]*/cluster${N}/g" /etc/hosts
     
     # join the docker swarm
     if [[ "$SWARM_TOKEN" == "" ]]; then
