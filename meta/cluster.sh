@@ -22,11 +22,12 @@ then
         software-properties-common \
         htop
 
-    if [[ -f "/usr/share/keyrings/docker-archive-keyring.gpg" ]]; then
-        echo "docker gpg file already exists"
-    else
-        curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
-    fi
+    #if [[ -f "/usr/share/keyrings/docker-archive-keyring.gpg" ]]; then
+    #    echo "docker gpg file already exists"
+    #else
+    rm -f /usr/share/keyrings/docker-archive-keyring.gpg
+    curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+    #fi
     
     if [[ "$ARCH" == "aarch64" ]]; then
         echo "deb [arch=arm64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
