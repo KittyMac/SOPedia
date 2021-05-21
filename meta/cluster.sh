@@ -54,6 +54,7 @@ then
     fi
 
     # set static IP address
+    sudo rm -f /etc/netplan/00-installer-config.yaml
     sudo rm -f /etc/netplan/50-cloud-init.yaml
     
     if [[ "$ARCH" == "x86_64" ]]; then
