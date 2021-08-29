@@ -324,8 +324,8 @@
                     "title": "Colony Ships",
                     "abbrev": "CS",
                     "techRefinements": [
-                        { "uuid":"advColonyShip", "title":"II", "cost":650 },
-                        { "uuid":"adv2ColonyShip", "title":"III", "cost":1650 }
+                        { "uuid":"advancedColonyShip", "title":"II", "cost":650 },
+                        { "uuid":"advancedColonyShip2", "title":"III", "cost":1650 }
                     ]
                 },
                 {
