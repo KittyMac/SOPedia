@@ -1,0 +1,6 @@
+Ship: Gorzhon's ship is equipped with Dark Matter Incubators
+Ultimate: Unlocks construction of the Hatchery, a massive ship that breeds space monsters you can control.  Spawned monsters do not cost your empire command points.
+
+Tens of thousands of years ago the Gorzhons were the masters of the galaxy, creating and using miraculous wonders for the most mundane tasks.  Then they disappeared, leaving only ancient ruins and a small fleet of caretakers to watch over their territory.  Only a few individuals have seen a Gorzhon face to face.  Those who have survived tell of red eyes and pasty green complexions.
+
+Patrolling the dark corridors between the stars they seek to prepare the way for the Great Return of their people.  Viewing the younger civilizations as interlopers the Gorzhons seed the galaxy with monsters created out of the very fabric of the universe, to catch and destroy the unwary ship.  But they are not blind to the challenges before them, and are willing to join forces with any civilization brave enough to seek their services.  Because, in the end, one large civilization will be much easier to destroy than many small ones.

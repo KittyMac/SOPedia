@@ -1,0 +1,1 @@
+This race is naturally adept at technology and machinery which allows them to slowly repair their ships, both in and out of combat.

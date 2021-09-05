@@ -1,0 +1,1 @@
+This race is untrusting and generally not pleasing to be around.  Recruiting and maintaining spies is more expensive, and they suffer a -20% penality to offensive spying.

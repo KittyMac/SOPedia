@@ -1,0 +1,1 @@
+The race as a whole is naturally brilliant.  When scientists of this race research a new technology, they have a chance to gain free access to one additional random technology.
