@@ -1,6 +1,6 @@
-Ship: Equipped with orbital bombardments
-Fleet: Troop ships are incensed by Wretch's fanatical prowess, doubling their effectiveness
-Ultimate: Mortis Wretch's reputation proceeds him; no ships will retreat from combat when this genocidal maniac is present
+**Ship:** Equipped with orbital bombardments
+**Fleet:** Troop ships are incensed by Wretch's fanatical prowess, doubling their effectiveness
+**Ultimate:** Mortis Wretch's reputation proceeds him; no ships will retreat from combat when this genocidal maniac is present
 
 Extreme even by the Isather’s exaggerated standards, Tribal leader Mortis Wretch spent many years in prison for his crimes.  When slavers and strip miners invaded the home world he was released from prison to wreck havoc on their enemy.  He is respected by some and, though they are grateful for his actions, feared and reviled by many more.  But none will deny how effective, and needed, he is.
 

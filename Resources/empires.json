@@ -4,7 +4,7 @@
     ],
     "monsterEmpires": [
         {
-            "className": "MonsterEmpire",
+            "className": "SOEmpire_MonsterEmpire",
             "uuid": "amoeba",
             "title": "Amoeba",
             "hasRace": true,
@@ -19,7 +19,7 @@
             ]
         },
         {
-            "className": "MonsterEmpire",
+            "className": "SOEmpire_MonsterEmpire",
             "uuid": "serpent",
             "title": "Serpent",
             "hasRace": true,
@@ -36,7 +36,7 @@
             ]
         },
         {
-            "className": "MonsterEmpire",
+            "className": "SOEmpire_MonsterEmpire",
             "uuid": "crystal",
             "title": "Crystal",
             "hasRace": true,
@@ -54,7 +54,7 @@
             ]
         },
         {
-            "className": "MonsterEmpire",
+            "className": "SOEmpire_MonsterEmpire",
             "uuid": "energy",
             "title": "Strange Energy",
             "hasRace": true,

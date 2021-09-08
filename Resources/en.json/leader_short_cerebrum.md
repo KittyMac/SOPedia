@@ -1,6 +1,6 @@
-Planet: +3 research per scientist
-System: +5 research per planet
-Ultimate: Empire gains Brilliant Researchers bonus, and unlocks Cerebral Cortex technology
+**Planet:** +3 research per scientist
+**System:** +5 research per planet
+**Ultimate:** Empire gains Brilliant Researchers bonus, and unlocks Cerebral Cortex technology
 
 Many thousands of years ago a group of individuals from a long-forgotten race were sent to colonize another star system.  With faulty navigation and no cryogenics the ship drifted through the cosmos.  Evolving to exist in a weightless environment their brains grew while their limbs withered away. When the Vass Collective found their ship as it drifted past their home world the two groups of beings recognized a kindred spirit in each other.  The Vass incorporated them into the Collective, where they became known as the Cerebrums.
 

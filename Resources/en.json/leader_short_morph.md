@@ -1,6 +1,6 @@
-Planet: +10 command points
-Empire: +1 command points per starbase
-Ultimate: Morph's advanced communications technology allows the command of fleets in transit. This is a risky endeavor and can sometimes result in unforeseen consequences.
+**Planet:** +10 command points
+**Empire:** +1 command points per starbase
+**Ultimate:** Morph's advanced communications technology allows the command of fleets in transit. This is a risky endeavor and can sometimes result in unforeseen consequences.
 
 When only a young child the Draske known as Morph gained widespread attention when he hacked into the main government computer system and played a Hegemony-wide video. Though it took a year Morph was eventually taken into custody, where his mother, the Matriarch, ordered he be trained for the good of the Hegemony.
 

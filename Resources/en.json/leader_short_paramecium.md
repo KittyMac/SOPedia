@@ -1,6 +1,6 @@
-Planet: +2 food per farmer
-System: Biorich Fungi (+4 food per planet)
-Ultimate: +1 food per farmer; Paramecium's special food halves the cost of freighting food and doubles the revenue received from excess food sales
+**Planet:** +2 food per farmer
+**System:** Biorich Fungi (+4 food per planet)
+**Ultimate:** +1 food per farmer; Paramecium's special food halves the cost of freighting food and doubles the revenue received from excess food sales
 
 Proving that evolution has no limits to its strangeness Director Paramecium and the Harge closely resemble terrestrial slugs.  When the Draske first discovered the Harge home world they thought the rolling fields of grain were somehow a natural phenomenon.  After a surprising first contact the Draske incorporated the Harge Commune into the Hegemony, and both have benefited from the union.
 

@@ -1,6 +1,6 @@
-Ship: Increased combat speed and maneuverability
-Fleet: +2 parsecs fuel range increase
-Ultimate: Tyrrhenius fleet is undetectable by enemy empires while in transit between star systems
+**Ship:** Increased combat speed and maneuverability
+**Fleet:** +2 parsecs fuel range increase
+**Ultimate:** Tyrrhenius fleet is undetectable by enemy empires while in transit between star systems
 
 Early space captains in the Confederation were known as excellent smugglers.  Tyrrhenius was the most famous and successful smuggler and pilot the Confederation ever had the privilege, and displeasure, of encountering.  Massive ship augmentations gave his renegade fleet increased range and unlimited cloaking, letting him make “fun runs” past blockading fleets undetected.  His physical augmentations are no less impressive.  By replacing large parts of his body with cybernetic implants Tyrrhenius is able to interface directly with his ship as never before, greatly increasing its handling in combat.
 

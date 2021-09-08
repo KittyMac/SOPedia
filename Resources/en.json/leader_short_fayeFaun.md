@@ -1,6 +1,6 @@
-Planet: +10% morale
-System: +5% morale to each planet
-Ultimate: Reveals the location of all fleets on the galactic map
+**Planet:** +10% morale
+**System:** +5% morale to each planet
+**Ultimate:** Reveals the location of all fleets on the galactic map
 
 Accidently blasted by radiation while still in the egg, Faye and Faun were born conjoined.  Growing up with debilitating health defects and barely able to walk when most children started to fly, it was feared they would never lead a normal life.
 

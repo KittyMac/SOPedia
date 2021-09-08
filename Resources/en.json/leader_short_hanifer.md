@@ -1,6 +1,6 @@
-Ship: 20% damage resistance and reduced speed loss from structure damage
-Fleet: 5% damage resistance
-Ultimate: Hanifer's iron will and determination will allow his ship to survive until the last ship in his fleet has fallen
+**Ship:** 20% damage resistance and reduced speed loss from structure damage
+**Fleet:** 5% damage resistance
+**Ultimate:** Hanifer's iron will and determination will allow his ship to survive until the last ship in his fleet has fallen
 
 Some people are forged over a lifetime.  Others, like Colonel Hanifer, are forged in a single moment.  When the Confederacy Navy first fought its first extra solar battle it felt confident of victory.  The battle became known as the Hopeless Battle of Proximo Prime, and Colonel Hanifer’s battered, torn ship was the only vessel to return.  And he was the only survivor.
 

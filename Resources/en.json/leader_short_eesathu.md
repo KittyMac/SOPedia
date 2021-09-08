@@ -1,6 +1,6 @@
-Ship: Eesathu pulses with an unknown power, damaging all nearby enemy ships
-Fleet: Reduced time to retreat from combat
-Ultimate: Eesathu temporarily phases in and out of existence, allowing its ship to avoid 50% of all incoming attacks
+**Ship:** Eesathu pulses with an unknown power, damaging all nearby enemy ships
+**Fleet:** Reduced time to retreat from combat
+**Ultimate:** Eesathu temporarily phases in and out of existence, allowing its ship to avoid 50% of all incoming attacks
 
 Created when a million of the eldest Vass joined minds and bodies, Eesathu represents the ultimate evolution, and sacrifice, of the Vass collective.  A Collective within a Collective, Eesathu serves as the Vass’s all-powerful social and military leader, and, to some, a religious-like messiah as well.  Under its leadership the Vass Collective has become one of the most influential, and deadly, forces in the galaxy.
 

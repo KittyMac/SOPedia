@@ -1,6 +1,6 @@
-Ship: Repairs by 20% of damage inflicted
-Fleet: Repairs by 10% of damage inflicted
-Ultimate: Rogue Captain salvages wreckage after a battle, selling the scraps for credits and reverse engineering ship systems for a chance to unlock new technology
+**Ship:** Repairs by 20% of damage inflicted
+**Fleet:** Repairs by 10% of damage inflicted
+**Ultimate:** Rogue Captain salvages wreckage after a battle, selling the scraps for credits and reverse engineering ship systems for a chance to unlock new technology
 
 The Isather High Command has learned not to issue the Captain orders.  Rather, they point in a general direction and let him take it from there.  Known for his fierce action and daring bravado in battle he is highly respected in the Isather Dominion’s ranks…when he can be found in their ranks.
 

@@ -1,6 +1,6 @@
-Planet: Precious Metals (+10 GC per turn)
-System: +1 production per worker
-Ultimate: Increases the mineral value of his planet to very rich
+**Planet:** Precious Metals (+10 GC per turn)
+**System:** +1 production per worker
+**Ultimate:** Increases the mineral value of his planet to very rich
 
 Though they landed on a fertile planet, the Cyban home world did not have easily accessed material wealth.  To correct this a small team of Cybans created Magistrate Xalon out of the very rock of their world.  Unfortunately for the Cybans the units and facility that created Xalon were destroyed in the process, leaving it as the most unique Cyban in the Community.
 
