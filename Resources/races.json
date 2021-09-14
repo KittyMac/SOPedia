@@ -118,126 +118,126 @@
         { 
             "uuid":"xalon", 
             "name":"Magistrate Xalon", 
-            "type":"colony",
+            "type":0,
             "auctionEventGreeting":"My affinity with planetary compositions will certainly be of use to you.",
             "auctionEventWon":"Let us feast on the riches beneath the crust."
         },
         { 
             "uuid":"fayeFaun", 
             "name":"Governors Faye and Faun", 
-            "type":"colony",
+            "type":0,
             "auctionEventGreeting":"We foresee you biding strongly to hire us.",
             "auctionEventWon":"We shall pierce the clouds of fate and bring forth a brighter tomorrow."
         },
         { 
             "uuid":"fveBgeeep", 
             "name":"Governor Fve Bgeeep", 
-            "type":"colony",
+            "type":0,
             "auctionEventGreeting":"The best offense available will not prevail against my defenses.",
             "auctionEventWon":"Assign me quickly, there are preparations to be done."
         },
         { 
             "uuid":"terminifera", 
             "name":"Overlord Terminifera", 
-            "type":"colony",
+            "type":0,
             "auctionEventGreeting":"We are as locusts, spreading our seed across the galaxy.",
             "auctionEventWon":"Let the infestation commence."
         },
         { 
             "uuid":"cerebrum", 
             "name":"First Cerebrum", 
-            "type":"colony",
+            "type":0,
             "auctionEventGreeting":"Innovation is the true path to glory.",
             "auctionEventWon":"Tomorrow waits for no being, assign me quickly."
         },
         { 
             "uuid":"morph", 
             "name":"Morph", 
-            "type":"colony",
+            "type":0,
             "auctionEventGreeting":"Everything goes somewhere, and I go everywhere.",
             "auctionEventWon":"No one can stop my signal."
         },
         { 
             "uuid":"paramecium", 
             "name":"Director Paramecium", 
-            "type":"colony",
+            "type":0,
             "auctionEventGreeting":"All life springs forth from a bountiful harvest.",
             "auctionEventWon":"The fields shall flourish under my meticulous care."
         },
         { 
             "uuid":"x", 
             "name":"Magistrate X", 
-            "type":"colony",
+            "type":0,
             "auctionEventGreeting":"She who pulls the strings will shape the flow of destiny.",
             "auctionEventWon":"My contacts have been informed of my new allegiance, let the chaos commence."
         },
         { 
             "uuid":"xinKrek", 
             "name":"Xin-krek", 
-            "type":"colony",
+            "type":0,
             "auctionEventGreeting":"Exploitation comes in many forms.",
             "auctionEventWon":"My minions are eager to meet your children."
         },
         { 
             "uuid":"gorzhons", 
             "name":"Gorzhons", 
-            "type":"military",
+            "type":1,
             "auctionEventGreeting":"We shall reclaim what was once ours.",
             "auctionEventWon":"Build the Hatchery quickly, there is breeding to be done."
         },
         { 
             "uuid":"tyrrhenius", 
             "name":"Tyrrhenius", 
-            "type":"military",
+            "type":1,
             "auctionEventGreeting":"Change is necessary for survival.",
             "auctionEventWon":"They will never see us coming."
         },
         { 
             "uuid":"wretch", 
             "name":"Mortis Wretch", 
-            "type":"military",
+            "type":1,
             "auctionEventGreeting":"I shall peel the flesh from their bones.",
             "auctionEventWon":"Send me to battle! I cannot hold back the blood thirst for long."
         },
         { 
             "uuid":"rogueCaptain", 
             "name":"Rogue Captain", 
-            "type":"military",
+            "type":1,
             "auctionEventGreeting":"Evolution is the only form of perfection.",
             "auctionEventWon":"Their fleet will not be theirs for long."
         },
         { 
             "uuid":"eesathu", 
             "name":"Eesathu", 
-            "type":"military",
+            "type":1,
             "auctionEventGreeting":"Join the ascension.",
             "auctionEventWon":"None can withstand the power of our united consciousness."
         },
         { 
             "uuid":"kzzt", 
             "name":"Admiral Kzzt", 
-            "type":"military",
+            "type":1,
             "auctionEventGreeting":"The path to victory lies with me.",
             "auctionEventWon":"A thousand wasps are more powerful than the charging rhino."
         },
         { 
             "uuid":"cla", 
             "name":"Cla-TK-7-7A", 
-            "type":"military",
+            "type":1,
             "auctionEventGreeting":"A small leak will sink a great ship.",
             "auctionEventWon":"Our flagships will prevail under my command."
         },
         { 
             "uuid":"gentry", 
             "name":"Captain Jack Gentry", 
-            "type":"military",
+            "type":1,
             "auctionEventGreeting":"Always attack, never retreat!",
             "auctionEventWon":"The galaxy now has a reason to fear you."
         },
         { 
             "uuid":"hanifer", 
             "name":"Colonel Hanifer", 
-            "type":"military",
+            "type":1,
             "auctionEventGreeting":"Pain is only in your mind.",
             "auctionEventWon":"Everyone fights, no one quits!"
         },
