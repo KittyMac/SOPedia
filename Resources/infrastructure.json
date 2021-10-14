@@ -64,9 +64,9 @@
         { "uuid":"advancedCityPlanning2", "title": "Advanced City Planning 2", "cost":250, "upkeep":4, "space":1, "singleton":true, "baseBonus":4, "bonusType":5, "techDependencys": [ "advancedCityPlanning2" ], "upgradesBuildings": [ "advancedCityPlanning1" ]},
         { "uuid":"advancedCityPlanning3", "title": "Advanced City Planning 3", "cost":300, "upkeep":6, "space":1, "singleton":true, "baseBonus":8, "bonusType":5, "techDependencys": [ "advancedCityPlanning3" ], "upgradesBuildings": [ "advancedCityPlanning2" ]},
         
-        { "uuid":"improvedColonyInfrastructure1", "title": "Advanced City Planning 1", "cost":60, "upkeep":2, "space":0, "singleton":true, "baseBonus":2, "bonusType":6, "techDependencys": [ "improvedColonyInfrastructure1" ] },
-        { "uuid":"improvedColonyInfrastructure2", "title": "Advanced City Planning 2", "cost":100, "upkeep":4, "space":0, "singleton":true, "baseBonus":4, "bonusType":6, "techDependencys": [ "improvedColonyInfrastructure2" ], "upgradesBuildings": [ "improvedColonyInfrastructure1" ]},
-        { "uuid":"improvedColonyInfrastructure3", "title": "Advanced City Planning 3", "cost":160, "upkeep":6, "space":0, "singleton":true, "baseBonus":8, "bonusType":6, "techDependencys": [ "improvedColonyInfrastructure3" ], "upgradesBuildings": [ "improvedColonyInfrastructure2" ]},
+        { "uuid":"improvedColonyInfrastructure1", "title": "Improved Colony Infrastructure 1", "cost":60, "upkeep":2, "space":0, "singleton":true, "baseBonus":2, "bonusType":6, "techDependencys": [ "improvedColonyInfrastructure1" ] },
+        { "uuid":"improvedColonyInfrastructure2", "title": "Improved Colony Infrastructure 2", "cost":100, "upkeep":4, "space":0, "singleton":true, "baseBonus":4, "bonusType":6, "techDependencys": [ "improvedColonyInfrastructure2" ], "upgradesBuildings": [ "improvedColonyInfrastructure1" ]},
+        { "uuid":"improvedColonyInfrastructure3", "title": "Improved Colony Infrastructure 3", "cost":160, "upkeep":6, "space":0, "singleton":true, "baseBonus":8, "bonusType":6, "techDependencys": [ "improvedColonyInfrastructure3" ], "upgradesBuildings": [ "improvedColonyInfrastructure2" ]},
         
         { "uuid":"tradePort1", "title": "Trade Port 1", "cost":140, "upkeep":0, "space":1, "singleton":true, "perBonus":0.5, "bonusType":7, "techDependencys": [ "tradePort1" ] },
         { "uuid":"tradePort2", "title": "Trade Port 2", "cost":200, "upkeep":0, "space":1, "singleton":true, "perBonus":0.75, "bonusType":7, "techDependencys": [ "tradePort2" ], "upgradesBuildings": [ "tradePort1" ]}
