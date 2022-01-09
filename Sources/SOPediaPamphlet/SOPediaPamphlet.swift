@@ -2,6 +2,8 @@ import Foundation
 
 // swiftlint:disable all
 
+
+
 public enum SOPediaPamphlet {
     public static func get(string member: String) -> String? {
         switch member {
