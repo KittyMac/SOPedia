@@ -17,6 +17,7 @@ then
     # install openssh-server, ipmitools
     sudo dnf -y install openssh-server OpenIPMI ipmitool cpupowerutils
     sudo systemctl enable sshd
+    sudo systemctl start sshd
     
     # set fans and cpupower to performance (TODO: make this happen on startup)
     sudo ipmitool sensor thres FANA lower 100 150 250
@@ -34,6 +35,7 @@ then
     # https://fedoramagazine.org/docker-and-fedora-35/
     sudo dnf -y install moby-engine docker-compose
     sudo systemctl enable docker
+    sudo systemctl start docker
     
     sudo groupadd docker
     sudo usermod -aG docker $USER
