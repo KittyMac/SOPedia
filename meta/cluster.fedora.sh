@@ -15,7 +15,7 @@ then
     sudo dnf -y upgrade
     
     # install openssh-server, ipmitools
-    sudo dnf -y install openssh-server OpenIPMI ipmitool cpupowerutils htop numlockx 
+    sudo dnf -y install openssh-server OpenIPMI ipmitool cpupowerutils htop numlockx lm_sensors
     sudo systemctl enable sshd
     sudo systemctl start sshd
     
