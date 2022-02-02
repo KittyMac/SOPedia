@@ -12,11 +12,11 @@ read -p "Initialize node as cluster${N} @ 192.168.1.${N}. Are you sure? " -n 1 -
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
     
-    dnf upgrade
+    sudo dnf upgrade
     
     # install ipmitool
-    dnf install OpenIPMI ipmitool
-    dnf install cpupowerutils
+    sudo dnf install OpenIPMI ipmitool
+    sudo dnf install cpupowerutils
     
     # remove old docker
     sudo dnf remove docker docker-client \
