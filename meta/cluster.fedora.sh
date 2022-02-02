@@ -44,6 +44,18 @@ then
     # add current user to the docker group
     sudo usermod -aG docker $USER
     
+    # set fans and cpupower to performance (TODO: make this happen on startup)
+    sudo ipmitool sensor thres FANA lower 100 150 250
+    sudo ipmitool sensor thres FANB lower 100 150 250
+    sudo ipmitool sensor thres FAN1 lower 100 150 250
+    sudo ipmitool sensor thres FAN2 lower 100 150 250
+    sudo ipmitool sensor thres FAN3 lower 100 150 250
+    sudo ipmitool sensor thres FAN4 lower 100 150 250
+    sudo ipmitool sensor thres FAN5 lower 100 150 250
+    sudo ipmitool sensor thres FAN6 lower 100 150 250
+
+    sudo cpupower frequency-set -g performance
+    
     # join the docker swarm
     if [[ "$SWARM_TOKEN" == "" ]]; then
         echo "No swarm token provided, unable to join a docker swarm"
