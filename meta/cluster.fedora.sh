@@ -30,11 +30,15 @@ then
     sudo ipmitool sensor thres FAN6 lower 100 150 250
 
     sudo cpupower frequency-set -g performance
+    
+    # disable SELinux
+    sudo sed -i -e 's/SELINUX=/SELINUX=disabled #/g' /etc/selinux/config
             
     # install docker (Fedora way)
     # https://fedoramagazine.org/docker-and-fedora-35/
     sudo dnf -y install moby-engine docker-compose
     sudo sed -i 's/--live-restore//g' /etc/sysconfig/docker
+    sudo sed -i 's/--selinux-enabled//g' /etc/sysconfig/docker
     sudo systemctl enable docker
     sudo systemctl start docker
     
