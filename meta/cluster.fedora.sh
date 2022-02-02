@@ -12,37 +12,11 @@ read -p "Initialize node as cluster${N} @ 192.168.1.${N}. Are you sure? " -n 1 -
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
     
-    sudo dnf upgrade
+    sudo dnf -y upgrade
     
-    # install ipmitool
-    sudo dnf install OpenIPMI ipmitool
-    sudo dnf install cpupowerutils
-    
-    # remove old docker
-    sudo dnf remove docker docker-client \
-      docker-client-latest \
-      docker-common \
-      docker-latest \
-      docker-latest-logrotate \
-      docker-logrotate \
-      docker-selinux \
-      docker-engine-selinux \
-      docker-engine
-    
-    # install docker
-    sudo dnf -y install dnf-plugins-core
-    
-    sudo dnf config-manager \
-        --add-repo \
-        https://download.docker.com/linux/fedora/docker-ce.repo
-    
-    sudo dnf install docker-ce docker-ce-cli containerd.io
-    
-    # start docker
-    sudo systemctl start docker
-    
-    # add current user to the docker group
-    sudo usermod -aG docker $USER
+    # install openssh-server, ipmitools
+    sudo dnf -y install openssh-server OpenIPMI ipmitool cpupowerutils
+    sudo systemctl enable sshd
     
     # set fans and cpupower to performance (TODO: make this happen on startup)
     sudo ipmitool sensor thres FANA lower 100 150 250
@@ -55,6 +29,14 @@ then
     sudo ipmitool sensor thres FAN6 lower 100 150 250
 
     sudo cpupower frequency-set -g performance
+            
+    # install docker (Fedora way)
+    # https://fedoramagazine.org/docker-and-fedora-35/
+    sudo dnf -y install moby-engine docker-compose
+    sudo systemctl enable docker
+    
+    sudo groupadd docker
+    sudo usermod -aG docker $USER
     
     # join the docker swarm
     if [[ "$SWARM_TOKEN" == "" ]]; then
