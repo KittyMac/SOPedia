@@ -20,6 +20,8 @@ then
     sudo systemctl start sshd
     
     # set fans and cpupower to performance (TODO: make this happen on startup)
+    sudo sensors-detect
+    
     sudo ipmitool sensor thres FANA lower 100 150 250
     sudo ipmitool sensor thres FANB lower 100 150 250
     sudo ipmitool sensor thres FAN1 lower 100 150 250
