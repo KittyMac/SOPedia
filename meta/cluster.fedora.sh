@@ -15,7 +15,7 @@ then
     sudo dnf -y upgrade
     
     # install openssh-server, ipmitools
-    sudo dnf -y install openssh-server OpenIPMI ipmitool cpupowerutils htop
+    sudo dnf -y install openssh-server OpenIPMI ipmitool cpupowerutils htop numlockx 
     sudo systemctl enable sshd
     sudo systemctl start sshd
     
@@ -34,6 +34,7 @@ then
     # install docker (Fedora way)
     # https://fedoramagazine.org/docker-and-fedora-35/
     sudo dnf -y install moby-engine docker-compose
+    sudo sed -i 's/--live-restore//g' /etc/sysconfig/docker
     sudo systemctl enable docker
     sudo systemctl start docker
     
