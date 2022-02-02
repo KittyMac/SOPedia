@@ -53,6 +53,9 @@ then
     else
         sudo docker swarm join --token "$SWARM_TOKEN" "$MANAGER_IP_ADDRESS"
     fi
+    
+    # login to docker
+    sudo docker login
 
     # (new) method uses the NetworkManager
     sudo nmcli general hostname cluster${N}
