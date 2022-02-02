@@ -49,7 +49,7 @@ then
 
     # (new) method uses the NetworkManager
     if which nmcli >/dev/null; then
-        sudo nmcli general hostname cluster200
+        sudo nmcli general hostname cluster${N}
         
         sudo nmcli con mod "Wired connection 1" ipv4.addresses "192.168.1.${N}/24" ipv4.gateway "192.168.1.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
         #nmcli con mod "Wired connection 1" ipv4.addresses "" ipv4.gateway "" ipv4.dns "" ipv4.dns-search "" ipv4.method "auto"
