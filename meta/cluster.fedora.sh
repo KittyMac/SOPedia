@@ -35,6 +35,10 @@ then
     
     # disable SELinux
     sudo sed -i -e 's/SELINUX=/SELINUX=disabled #/g' /etc/selinux/config
+    
+    # raise max open files limit
+    echo "DefaultLimitNOFILE=100000" >> /etc/systemd/user.conf
+    echo "DefaultLimitNOFILE=100000" >> /etc/systemd/system.conf
             
     # install docker (Fedora way)
     # https://fedoramagazine.org/docker-and-fedora-35/
