@@ -59,6 +59,9 @@ then
     sudo groupadd docker
     sudo usermod -aG docker $USER
     
+    # lower swappiness
+    echo 'vm.swappiness=10' | sudo tee -a /etc/sysctl.conf
+    
     # join the docker swarm
     if [[ "$SWARM_TOKEN" == "" ]]; then
         echo "No swarm token provided, unable to join a docker swarm"
