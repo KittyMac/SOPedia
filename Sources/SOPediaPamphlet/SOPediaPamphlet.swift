@@ -5,7 +5,7 @@ import Foundation
 
 
 public enum SOPediaPamphlet {
-    public static func get(string member: String) -> String? {
+    public static func get(string member: String) -> StaticString? {
         switch member {
         case "/empires.json": return SOPediaPamphlet.EmpiresJson()
         case "/en.json": return SOPediaPamphlet.EnJson()

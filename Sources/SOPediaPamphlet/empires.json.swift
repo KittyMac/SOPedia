@@ -3,7 +3,7 @@ import Foundation
 // swiftlint:disable all
 
 public extension SOPediaPamphlet {
-    static func EmpiresJson() -> String {
+    static func EmpiresJson() -> StaticString {
         return uncompressedEmpiresJson
     }
     static func EmpiresJsonGzip() -> Data {
@@ -11,7 +11,7 @@ public extension SOPediaPamphlet {
     }
 }
 
-private let uncompressedEmpiresJson = ###"""
+private let uncompressedEmpiresJson: StaticString = ###"""
 {"minorEmpires":[],"monsterEmpires":[{"className":"SOEmpire_MonsterEmpire","uuid":"amoeba","title":"Amoeba","hasRace":true,"teamType":"monster","acquiredTechnologys":["shipHullFrigate","shipHullDestroyer","shipHullCruiser","shipHullBattleship","laserBeam1","heavyArmorPlating1"]},{"className":"SOEmpire_MonsterEmpire","uuid":"serpent","title":"Serpent","hasRace":true,"teamType":"monster","acquiredTechnologys":["shipHullFrigate","shipHullDestroyer","shipHullCruiser","shipHullBattleship","gaussTurret1",],"raceAttributeTypes":["combatPilots"]},{"className":"SOEmpire_MonsterEmpire","uuid":"crystal","title":"Crystal","hasRace":true,"teamType":"monster","acquiredTechnologys":["shipHullFrigate","shipHullDestroyer","shipHullCruiser","shipHullBattleship","ionPulseCannon1",],"raceAttributeTypes":["combatPilots","fantasticEngineers"]},{"className":"SOEmpire_MonsterEmpire","uuid":"energy","title":"Strange Energy","hasRace":true,"teamType":"monster","acquiredTechnologys":["shipHullFrigate","shipHullDestroyer","shipHullCruiser","shipHullBattleship","gaussTurret1",]}]}
 
 """###
