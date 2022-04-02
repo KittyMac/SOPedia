@@ -21,9 +21,9 @@ update:
 xcode:
 	pamphlet --prefix SOPedia --release ./Resources/ ./Sources/SOPediaPamphlet/ 
 	swift package generate-xcodeproj
-	meta/addBuildPhase SOPediaPamphlet.xcodeproj/project.pbxproj "SOPediaPamphlet::SOPediaPamphlet" 'cd $${SRCROOT}; ./meta/CombinedBuildPhases.sh'
+	meta/addBuildPhase SOPediaPamphlet.xcodeproj/project.pbxproj "sopedia::SOPediaPamphlet" 'cd $${SRCROOT}; ./meta/CombinedBuildPhases.sh'
 
 xcode-clean:
 	pamphlet --clean --prefix SOPedia --release ./Resources/ ./Sources/SOPediaPamphlet/ 
 	swift package generate-xcodeproj
-	meta/addBuildPhase SOPediaPamphlet.xcodeproj/project.pbxproj "SOPediaPamphlet::SOPediaPamphlet" 'cd $${SRCROOT}; ./meta/CombinedBuildPhases.sh'
+	meta/addBuildPhase SOPediaPamphlet.xcodeproj/project.pbxproj "sopedia::SOPediaPamphlet" 'cd $${SRCROOT}; ./meta/CombinedBuildPhases.sh'
