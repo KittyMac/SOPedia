@@ -13,7 +13,6 @@
         { "uuid":"colonyShip", "title": "Colony Ship", "special":true, "cost":500, "upkeep":0, "space":0 },
         { "uuid":"advancedColonyShip", "title": "Colony Ship 2", "special":true, "cost":500, "upkeep":0, "space":0 },
         { "uuid":"advancedColonyShip2", "title": "Colony Ship 3", "special":true, "cost":450, "upkeep":0, "space":0 },
-        { "uuid":"advancedColonyShip2", "title": "Colony Ship 3", "special":true, "cost":350, "upkeep":0, "space":0 },
         
         { "uuid":"transportShip", "title": "Troop Ship", "special":true, "cost":150, "upkeep":0, "space":0 },
         
