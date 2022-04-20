@@ -16,8 +16,8 @@
         
         { "uuid":"transportShip", "title": "Troop Ship", "special":true, "cost":150, "upkeep":0, "space":0 },
         
-        { "uuid":"terraforming", "title": "Terraforming", "special":true, "cost":900, "upkeep":0, "space":0, "techDependencys": [ "terraforming" ]},
-        { "uuid":"gaiaDevice", "title": "Gaia Device", "special":true, "cost":1300, "upkeep":0, "space":0, "techDependencys": [ "gaiaDevice" ]},
+        { "uuid":"terraforming", "title": "Terraforming", "special":true, "singleton":true, "cost":900, "upkeep":0, "space":0, "techDependencys": [ "terraforming" ]},
+        { "uuid":"gaiaDevice", "title": "Gaia Device", "special":true, "singleton":true, "cost":1300, "upkeep":0, "space":0, "techDependencys": [ "gaiaDevice" ]},
         
         { "uuid":"hatchery", "title": "Hatchery", "special":true, "cost":2000, "upkeep":0, "space":0, "singleton":true },
         
