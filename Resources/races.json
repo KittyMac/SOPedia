@@ -2,7 +2,7 @@
     "attributes": [
         { "order":1, "uuid": "farming1", "title": "Inadequate Farmers", "cost": -3, "modifier": -1, "group": "Farming" },
         { "order":2, "uuid": "farming2", "title": "Proficient Farmers", "cost": 3, "modifier": 1.5, "group": "Farming" },
-        { "order":3, "uuid": "farming3", "title": "Plant Whisperers", "cost": 6, "modifier": 6, "group": "Farming" },
+        { "order":3, "uuid": "farming3", "title": "Plant Whisperers", "cost": 6, "modifier": 3, "group": "Farming" },
         
         { "order":4, "uuid": "industry1", "title": "Slow as Sloths", "cost": -3, "modifier": -0.5, "group": "Industry" },
         { "order":5, "uuid": "industry2", "title": "Industrious Individuals", "cost": 3, "modifier": 1, "group": "Industry" },
@@ -49,7 +49,7 @@
         
         { "order":34, "uuid": "tolerant", "title": "Tolerant", "cost": 1 },
         
-        { "order":35, "uuid": "brilliantResearchers", "title": "Brilliant Researchers", "cost": 6 },
+        { "order":35, "uuid": "brilliantResearchers", "title": "Brilliant Researchers", "cost": 5 },
         
         { "order":36, "uuid": "battleHardened", "title": "Battle Hardened", "cost": 2 },
         

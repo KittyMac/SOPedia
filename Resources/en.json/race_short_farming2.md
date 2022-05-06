@@ -1,2 +1,2 @@
-+1 Food Per Farmer  
++1.5 Food Per Farmer  
 This race is naturally talented at growing food.
