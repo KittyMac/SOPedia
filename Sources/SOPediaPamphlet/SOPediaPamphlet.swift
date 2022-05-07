@@ -5,7 +5,7 @@ import Foundation
 
 
 public enum SOPediaPamphlet {
-    public static let version = "v0.1.0-4-gabf977c"
+    public static let version = "v0.1.1"
 
     public static func get(string member: String) -> StaticString? {
         switch member {
