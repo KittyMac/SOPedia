@@ -1,1 +1,1 @@
-Race is composed of individuals who express some form of free thought and creativity.  Being able to differentiate in such a manner allows these beings to enjoy life to the fullest, providing a boost to morale.
+Race is composed of individuals who express some form of free thought and creativity.  Being able to differentiate in such a manner allows these beings to enjoy life to the fullest, providing a 10% boost to morale.
