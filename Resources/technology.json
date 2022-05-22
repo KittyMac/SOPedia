@@ -171,6 +171,20 @@
             "title": "Astrophysics Research",
             "techAchievements": [
                 {
+                    "title": "Hull Design - Transport",
+                    "abbrev": "TP",
+                    "shipHullRefinements": [
+                        { "uuid":"shipHullTransport", "cost":200, "shipSize":"8", "structure":60, "armor":60, "targetArrays":1, "weaponSlots":1, "systemSlots":1, "designCost":200 }
+                    ]
+                },
+                {
+                    "title": "Hull Design - Colony",
+                    "abbrev": "CL",
+                    "shipHullRefinements": [
+                        { "uuid":"shipHullColony", "cost":100, "shipSize":"6", "structure":60, "armor":60, "targetArrays":1, "weaponSlots":0, "systemSlots":1, "designCost":500 }
+                    ]
+                },
+                {
                     "title": "Hull Design - Frigate",
                     "abbrev": "FF",
                     "shipHullRefinements": [
