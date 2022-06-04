@@ -310,8 +310,8 @@
                 {
                     "title": "Shield Modulation Unit",
                     "abbrev": "SMU",
-                    "techRefinements": [
-                        { "uuid":"shieldModulationUnit", "cost":2800, "designCost":"50", "value1":0, "value2":0, "stackingPenalty":0 }
+                    "shipSystemRefinements": [
+                        { "uuid":"shieldModulationUnit", "cost":2800, "designCost":50, "value1":0, "value2":0, "stackingPenalty":0 }
                     ]
                 },
                 {
@@ -325,8 +325,8 @@
                 {
                     "title": "Deep Space Jamming Device",
                     "abbrev": "DSJ",
-                    "techRefinements": [
-                        { "uuid":"deepSpaceJammer", "cost":1200, "designCost":"400", "value1":0, "value2":0, "stackingPenalty":0 }
+                    "shipSystemRefinements": [
+                        { "uuid":"deepSpaceJammer", "cost":1200, "designCost":400, "value1":0, "value2":0, "stackingPenalty":0 }
                     ]
                 }
             ]
