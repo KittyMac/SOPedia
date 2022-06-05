@@ -71,5 +71,30 @@
         { "uuid":"tradePort1", "title": "Trade Port 1", "cost":140, "upkeep":0, "space":1, "singleton":true, "perBonus":0.5, "bonusType":7, "techDependencys": [ "tradePort1" ] },
         { "uuid":"tradePort2", "title": "Trade Port 2", "cost":200, "upkeep":0, "space":1, "singleton":true, "perBonus":0.75, "bonusType":7, "techDependencys": [ "tradePort2" ], "upgradesBuildings": [ "tradePort1" ]}
         
-    ]
+    ],
+	"focusIndustry": {
+		"buildings": [
+			"efficientFactories1",
+			"efficientFactories2"
+		]
+	},
+	"focusResearch": {
+		"buildings": [
+			"researchCenter1",
+			"researchCenter2",
+			"researchCenter3"
+		]
+	},
+	"focusFarming": {
+		"buildings": [
+			"hydroponicsCenter1",
+			"hydroponicsCenter2"
+		]
+	},
+	"focusMilitary": {
+		"buildings": [
+			"marineBarracks1",
+			"marineBarracks2"
+		]
+	},
 }
