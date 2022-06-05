@@ -75,26 +75,157 @@
 	"focusIndustry": {
 		"buildings": [
 			"efficientFactories1",
-			"efficientFactories2"
+			"efficientFactories2",
+			"roboticsFacility1",
+			"roboticsFacility2",
+			"cloningFacility",
+			"planetaryCoreMining",
+			"spaceElevator1",
+			"spaceElevator2",
+			"planetaryGravityGenerator",
+			"sanctionedSports",
+			"tradePort1",
+			"tradePort2",
+			"advancedCityPlanning1",
+			"advancedCityPlanning2",
+			"advancedCityPlanning3",
+			"improvedColonyInfrastructure1",
+			"improvedColonyInfrastructure2",
+			"improvedColonyInfrastructure3",
+			"terraforming",
+			
+			"researchCenter1",
+			"researchCenter2",
+			"researchCenter3",
+			"orbitalLaboratory1",
+			"orbitalLaboratory2",
+			
+			"hydroponicsCenter1",
+			"hydroponicsCenter2",
+			"orbitalWeatherController1",
+			"orbitalWeatherController2",
+			
+			"marineBarracks1",
+			"marineBarracks2",
+			"warpGate1",
+			"warpGate2"
 		]
 	},
 	"focusResearch": {
 		"buildings": [
 			"researchCenter1",
 			"researchCenter2",
-			"researchCenter3"
+			"researchCenter3",
+			"orbitalLaboratory1",
+			"orbitalLaboratory2",
+			
+			"efficientFactories1",
+			"efficientFactories2",
+			"roboticsFacility1",
+			"roboticsFacility2",
+			"cloningFacility",
+			"planetaryCoreMining",
+			"spaceElevator1",
+			"spaceElevator2",
+			"planetaryGravityGenerator",
+			"sanctionedSports",
+			"tradePort1",
+			"tradePort2",
+			"advancedCityPlanning1",
+			"advancedCityPlanning2",
+			"advancedCityPlanning3",
+			"improvedColonyInfrastructure1",
+			"improvedColonyInfrastructure2",
+			"improvedColonyInfrastructure3",
+			"terraforming",
+			
+			"marineBarracks1",
+			"marineBarracks2",
+			"warpGate1",
+			"warpGate2",
+			
+			"hydroponicsCenter1",
+			"hydroponicsCenter2",
+			"orbitalWeatherController1",
+			"orbitalWeatherController2"
 		]
 	},
 	"focusFarming": {
 		"buildings": [
 			"hydroponicsCenter1",
-			"hydroponicsCenter2"
+			"hydroponicsCenter2",
+			"orbitalWeatherController1",
+			"orbitalWeatherController2",
+			
+			"efficientFactories1",
+			"efficientFactories2",
+			"roboticsFacility1",
+			"roboticsFacility2",
+			"cloningFacility",
+			"planetaryCoreMining",
+			"spaceElevator1",
+			"spaceElevator2",
+			"planetaryGravityGenerator",
+			"sanctionedSports",
+			"tradePort1",
+			"tradePort2",
+			"advancedCityPlanning1",
+			"advancedCityPlanning2",
+			"advancedCityPlanning3",
+			"improvedColonyInfrastructure1",
+			"improvedColonyInfrastructure2",
+			"improvedColonyInfrastructure3",
+			"terraforming",
+			
+			"researchCenter1",
+			"researchCenter2",
+			"researchCenter3",
+			"orbitalLaboratory1",
+			"orbitalLaboratory2",
+			
+			"marineBarracks1",
+			"marineBarracks2",
+			"warpGate1",
+			"warpGate2"
 		]
 	},
 	"focusMilitary": {
 		"buildings": [
 			"marineBarracks1",
-			"marineBarracks2"
+			"marineBarracks2",
+			"warpGate1",
+			"warpGate2",
+			
+			"hydroponicsCenter1",
+			"hydroponicsCenter2",
+			"orbitalWeatherController1",
+			"orbitalWeatherController2",
+			
+			"efficientFactories1",
+			"efficientFactories2",
+			"roboticsFacility1",
+			"roboticsFacility2",
+			"cloningFacility",
+			"planetaryCoreMining",
+			"spaceElevator1",
+			"spaceElevator2",
+			"planetaryGravityGenerator",
+			"sanctionedSports",
+			"tradePort1",
+			"tradePort2",
+			"advancedCityPlanning1",
+			"advancedCityPlanning2",
+			"advancedCityPlanning3",
+			"improvedColonyInfrastructure1",
+			"improvedColonyInfrastructure2",
+			"improvedColonyInfrastructure3",
+			"terraforming",
+			
+			"researchCenter1",
+			"researchCenter2",
+			"researchCenter3",
+			"orbitalLaboratory1",
+			"orbitalLaboratory2"
 		]
 	},
 }
