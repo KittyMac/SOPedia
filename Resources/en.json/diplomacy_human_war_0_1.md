@@ -1,0 +1,1 @@
+The confederation has decided

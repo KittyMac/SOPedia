@@ -1,0 +1,1 @@
+Demand Planet?\n\nDemand this empire cede control of {0} over to your empire.

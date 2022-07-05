@@ -1,0 +1,1 @@
+Request Trade Pact?\n\nForge intergalactic trade between your empires, to the mutual benefit of both parties.

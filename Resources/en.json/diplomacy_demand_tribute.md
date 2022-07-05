@@ -1,0 +1,1 @@
+Demand Tribute?\n\nDemand that this empire pay you 10% of their income each turn.

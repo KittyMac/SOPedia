@@ -1,0 +1,1 @@
+{0}?\n\nOnce you choose a technology you cannot change it to another.

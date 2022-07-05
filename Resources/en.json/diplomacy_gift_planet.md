@@ -1,0 +1,1 @@
+Gift Planet?\n\nCede control of {0} over to this empire.

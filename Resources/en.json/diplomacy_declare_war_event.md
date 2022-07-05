@@ -1,0 +1,1 @@
+Declare War?\n\nEnd any current agreements and commence immediate hostilities.

@@ -1,0 +1,1 @@
+Gift Credits?\n\nGive this empire {0} GC.

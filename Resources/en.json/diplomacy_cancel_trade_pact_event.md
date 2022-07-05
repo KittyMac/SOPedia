@@ -1,0 +1,1 @@
+Cancel Trade Pact?

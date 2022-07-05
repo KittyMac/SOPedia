@@ -1,0 +1,1 @@
+Request Alliance?\n\nYour fleets will be allowed to refuel at their colonies.  Espionage is forbidden.

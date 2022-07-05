@@ -1,0 +1,1 @@
+Demand Credits?\n\nDemand this empire give you {0} GC immediately.

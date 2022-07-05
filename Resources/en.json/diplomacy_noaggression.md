@@ -1,0 +1,1 @@
+You have a non-aggression pact with {0}. Your fleets are welcome in their space, and you can fight together in combat. Your empires will share vision of the galaxy. Espionage is still possible, but not expected.

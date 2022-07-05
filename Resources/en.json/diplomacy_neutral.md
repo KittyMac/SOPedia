@@ -1,0 +1,1 @@
+Your relations with {0} are amiable. Your fleets and fortifications will attack, but military encounters should be avoided to preserve foreign relations.
