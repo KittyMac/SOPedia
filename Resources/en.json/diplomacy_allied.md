@@ -1,1 +1,1 @@
-You have an alliance with {0}. Your fleets are welcome in their space, will fight together in combat, and may refuel at their colonies. Your empires will share vision of the galaxy. Espionage is strictly prohibited.
+Allied empires will allow your fleets their space, will fight together in combat, share vision of the galaxy and will allow refueling at ally controlled systems. Espionage is strictly prohibited.

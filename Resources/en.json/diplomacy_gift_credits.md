@@ -1,1 +1,2 @@
-Gift Credits?\n\nGive this empire {0} GC.
+**Gift Credits?**
+Give this empire {0} GC.

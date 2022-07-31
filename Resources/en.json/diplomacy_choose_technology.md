@@ -1,1 +1,3 @@
-{0}?\n\nOnce you choose a technology you cannot change it to another.
+{0}?
+
+Once you choose a technology you cannot change it to another.

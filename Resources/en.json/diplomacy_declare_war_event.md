@@ -1,1 +1,2 @@
-Declare War?\n\nEnd any current agreements and commence immediate hostilities.
+**Declare War?**
+End existing agreements and commence immediate hostilities.

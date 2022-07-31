@@ -1,1 +1,1 @@
-Your empires are at war! Your fleets and fortifications will attack, and rampant espionage should be expected.
+Your empires are at war! Your fleets and fortifications will attack and rampant espionage should be expected.

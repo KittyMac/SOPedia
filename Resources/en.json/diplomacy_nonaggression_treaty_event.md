@@ -1,1 +1,2 @@
-Request Non-Aggression Treaty?\n\nYour fleets will not attack their fleets.
+**Request Non-Aggression Treaty?**
+Empires who pledge non-aggression will not attack each others fleets.

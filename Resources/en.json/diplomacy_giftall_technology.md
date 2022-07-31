@@ -1,1 +1,2 @@
-Gift Technology?\n\nAllow this empire to pick from all of your technologies.
+**Gift Technology?**
+Allow this empire to pick from all of your technologies.

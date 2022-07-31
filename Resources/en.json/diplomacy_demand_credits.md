@@ -1,1 +1,2 @@
-Demand Credits?\n\nDemand this empire give you {0} GC immediately.
+**Demand Credits?**
+Demand this empire give you {0} GC immediately.

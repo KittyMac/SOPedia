@@ -1,1 +1,2 @@
-Demand War?\n\nDemand this empire go to war with {0}.
+**Demand War?**
+Demand this empire go to war with {0}.

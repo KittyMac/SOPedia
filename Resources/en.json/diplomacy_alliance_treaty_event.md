@@ -1,1 +1,2 @@
-Request Alliance?\n\nYour fleets will be allowed to refuel at their colonies.  Espionage is forbidden.
+**Request Alliance?**
+Allied empires will share fuel range, vision and fight together in combat.

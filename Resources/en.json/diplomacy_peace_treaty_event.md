@@ -1,1 +1,2 @@
-Request Peace Treaty?\n\nEnd hostilities and enter a state of neutrality with this empire.
+**Request Peace Treaty?**
+End hostilities and enter a state of neutrality with this empire.

@@ -1,1 +1,2 @@
-Gift Tribute?\n\nPay this empire a tribute of 10% of your income each turn.
+**Gift Tribute?**
+Pay this empire a tribute of 10% of your income each turn.
