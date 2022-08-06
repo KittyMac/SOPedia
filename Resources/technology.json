@@ -230,9 +230,9 @@
                     "title": "Starbase",
                     "abbrev": "SS",
                     "shipHullRefinements": [
-                        { "uuid":"starbase1", "cost":600, "shipSize":"9", "structure":600, "armor":400, "targetArrays":4, "weaponSlots":5, "systemSlots":4, "designCost":2500 },
-                        { "uuid":"starbase2", "cost":1200, "shipSize":"10", "structure":800, "armor":600, "targetArrays":4, "weaponSlots":8, "systemSlots":6, "designCost":2500 },
-                        { "uuid":"starbase3", "cost":2000, "shipSize":"11", "structure":1000, "armor":800, "targetArrays":4, "weaponSlots":12, "systemSlots":8, "designCost":2500 }
+                        { "uuid":"starbase1", "cost":600, "shipSize":"9", "structure":600, "armor":400, "targetArrays":4, "weaponSlots":5, "systemSlots":4, "designCost":350 },
+                        { "uuid":"starbase2", "cost":1200, "shipSize":"10", "structure":800, "armor":600, "targetArrays":4, "weaponSlots":8, "systemSlots":6, "designCost":550 },
+                        { "uuid":"starbase3", "cost":2000, "shipSize":"11", "structure":1000, "armor":800, "targetArrays":4, "weaponSlots":12, "systemSlots":8, "designCost":750 }
                     ]
                 },
                 {
