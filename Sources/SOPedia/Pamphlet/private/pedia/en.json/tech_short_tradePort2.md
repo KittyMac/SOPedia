@@ -1,0 +1,1 @@
+An upgrade trade port increases colony income by 75%.

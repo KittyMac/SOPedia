@@ -1,0 +1,1 @@
+Allied empires will allow your fleets their space, will fight together in combat, share vision of the galaxy and will allow refueling at ally controlled systems. Espionage is strictly prohibited.

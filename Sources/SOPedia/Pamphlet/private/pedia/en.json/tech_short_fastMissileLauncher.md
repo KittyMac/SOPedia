@@ -1,0 +1,1 @@
+Enhancements to the loading and launching apparatus allows missiles and torpedoes to reload more quickly, allowing more missiles to be launched during combat.

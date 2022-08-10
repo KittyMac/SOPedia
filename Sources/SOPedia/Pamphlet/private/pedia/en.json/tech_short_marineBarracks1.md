@@ -1,0 +1,1 @@
+Allows construction of troop transports. Produces defensive ground troops.

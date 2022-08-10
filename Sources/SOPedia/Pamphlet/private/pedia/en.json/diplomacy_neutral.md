@@ -1,0 +1,1 @@
+Your relations with these empires are amiable. Your fleets and fortifications will attack if encountered, but military action should be avoided to preserve foreign relations.

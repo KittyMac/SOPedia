@@ -1,0 +1,1 @@
+An automated defense system designed to destroy incoming projectile weaponry before they have a chance to strike their target. Suffers a 2x stacking penalty to cost.

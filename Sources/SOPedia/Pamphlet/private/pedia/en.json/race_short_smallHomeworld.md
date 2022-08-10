@@ -1,0 +1,1 @@
+Race begins the game with a small homeworld instead of a large homeworld.

@@ -1,0 +1,1 @@
+A rapid fire ballistic turret which utilized massive electromagnetic energy to drive titanium alloy, armor piercing projectiles at enemy ships.  Armor piercing weapons completely ignore the targets armor.

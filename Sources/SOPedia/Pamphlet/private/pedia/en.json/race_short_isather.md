@@ -1,0 +1,11 @@
+Of all the sentient civilizations in the galaxy none are more unpredictable, violent, or naturally deadly than the Isather Dominion.  For thousands of years the species was divided into numerous tribes that were at constant war with each other. First evolving from pack hunters they are naturally extremely territorial and prone to solving all problems with maximum, brute force and terrifyingly violent finality.
+
+After their Industrial Revolution many individuals found they had a natural affinity for metallurgy, and astounding buildings, monuments and even cities sprung up almost overnight.  Unfortunately, the only successful cities to sprout up on their home world were populated by single tribes.  Any multiple tribal cities were destroyed down to the foundations as territorial rivalries and the smallest misunderstanding quickly sparked full-scale, tribe verse tribe wars in the streets.
+
+Their tribal mentality would have fated them to never leave the planet, were it not for the need to unite and defend themselves when an alien fleet of slavers and strip miners descended on their world.  Millions of Isather were killed or enslaved overnight.  Desperate, the tribal leaders sought whatever resources they could find that would give them a chance against the invaders.
+
+One such resource was Mortis Wretch, former leader of the Wretch Tribe, imprisoned for violating the Isather’s one shared Taboo: the slaughter of women and children.  Released from his sentence, Wretch resumed leadership of his tribe and turned his genocidal tendencies towards the invaders.  The invasion was over within a year.
+
+Uniting under a common cause and a single flag for the first time in their violent history, the survivors formed the Isather Dominion.  The Dominion’s charter was to hunt down and destroy those who had brought death to their world.  Using their natural high strength and almost innate skills in metallurgy the Isather labored to create their own starships.
+
+After many years and many more failures their labors were finally successful.  As the first exploration fleet lifted off from the planet a sense of accomplishment washed over the population.  They had risen from the ashes.  They had reached the stars.  And soon they would have vengeance for the mass graves that covered their planet.

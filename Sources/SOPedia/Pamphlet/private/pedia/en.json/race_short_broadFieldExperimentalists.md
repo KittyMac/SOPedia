@@ -1,0 +1,1 @@
+Scientists of this race are avid experimentalists who research down many paths in parallel.  Races with this bonus have more options at each research stage to choose from, allowing them to climb the tech tree faster but at the expense possibly losing out on earlier technology. Broad Field Experimentalists also enjoy a reduced penalty when researching passed technologies.

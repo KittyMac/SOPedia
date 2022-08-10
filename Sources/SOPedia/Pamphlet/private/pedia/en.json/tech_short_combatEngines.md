@@ -1,0 +1,1 @@
+Additional impulse engines provide an increase to the combat speed of the ship. Suffers a 2x stacking penalty to cost.

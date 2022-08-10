@@ -1,0 +1,1 @@
+Advances in zinnium cells can fuel your ships to destinations up to 14 parsecs away from the nearest friendly settlement.

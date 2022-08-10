@@ -1,0 +1,1 @@
+A newly discovered material can be used power the nuclear reaction, increasing the damage output of this missile. Nukes do bonus damage equal to 7% of ship current structure if they strike an unshielded target.

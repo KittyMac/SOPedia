@@ -1,0 +1,1 @@
+Fills a large portion of the ship's storage space with additional fuel cells, allowing it to travel 2 parsecs farther than normal. Limit one per ship.
