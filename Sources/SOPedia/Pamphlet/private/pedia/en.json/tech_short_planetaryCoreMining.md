@@ -1,1 +1,0 @@
-Massive factories fueled by advanced planetary core mines. Increases industrial production by 30 and +1 for each worker.

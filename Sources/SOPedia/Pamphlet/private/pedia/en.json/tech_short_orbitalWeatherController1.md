@@ -1,1 +1,0 @@
-Orbital satelites provide improved weather conditions, increasing production by +1 per farmer or +20% food, whichever is higher.

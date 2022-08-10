@@ -1,1 +1,0 @@
-Unlocks the ability to design and build battleship class starships.

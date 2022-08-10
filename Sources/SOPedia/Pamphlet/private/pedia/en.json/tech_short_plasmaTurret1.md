@@ -1,1 +1,0 @@
-Releases a ball of energy which expands and grows as it travels, the Plasma Turret is a very effective long range weapon.

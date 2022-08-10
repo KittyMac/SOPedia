@@ -9,15 +9,15 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "SOPedia",
-            targets: ["SOPedia"]),
+            name: "SOPediaPamphlet",
+            targets: ["SOPediaPamphlet"]),
     ],
     dependencies: [
         .package(url: "https://github.com/KittyMac/Pamphlet.git", from: "0.3.0")
     ],
     targets: [
         .target(
-            name: "SOPedia",
+            name: "SOPediaPamphlet",
             dependencies: [
                 .product(name: "PamphletFramework", package: "Pamphlet")
             ],

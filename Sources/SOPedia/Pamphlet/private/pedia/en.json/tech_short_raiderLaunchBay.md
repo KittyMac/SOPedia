@@ -1,1 +1,0 @@
-A hanger bay which houses Raider fighter craft.

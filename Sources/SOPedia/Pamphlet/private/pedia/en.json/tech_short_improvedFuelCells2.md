@@ -1,1 +1,0 @@
-Advances in solid particle neutronium cells can fuel your ships to destinations up to 10 parsecs away from the nearest friendly settlement.

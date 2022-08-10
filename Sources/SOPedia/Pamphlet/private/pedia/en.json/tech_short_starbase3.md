@@ -1,1 +1,0 @@
-An orbital defense platform charged with defending the star system from enemy attack. Heals ships in the system by 30% of their total health each turn. Allows salvaging of ships to industry points on a planet at 80% of their original production cost.

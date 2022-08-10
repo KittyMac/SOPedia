@@ -1,1 +1,0 @@
-Typical organic double-talk.

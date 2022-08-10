@@ -1,1 +1,0 @@
-Packing explosive substance into the projectiles allows them to detonate on impact, increasing the damage output of this weapon dramatically.

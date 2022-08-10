@@ -1,1 +1,0 @@
-Class K stars have the best chance of containing habitable planets, but those planets are often poor in mineral resources. Habitable planets in binary systems often take advantage of the increased radiation exposure to provide a more fertaile environment.

@@ -1,9 +1,0 @@
-The development of the amphibians of the **Uggathaaa Commune** is one to give even the most open-minded scientist fits. Evolving on an ocean world with very little dry land, the Frogs (as the other sentient races of the galaxy know them) do not fit into any preconceived theories or dogmas of science.
-
-Naturally at home in an ocean full of dangerous predators, the average **Uggathaaa** is either a master hunter or dead. Lacking traditional family units, all adult members of a given community gather twice annually to spawn a new generation.
-
-The fertilized eggs from countless communities spread throughout the ocean before they hatching. Forced to learn or die, the hatchlings formed schools and used swarm tactics to survive, hunt, and create shelter. The survivors would eventually find their way to nearby communities as experienced wanders, where they are taught to be productive members of society.
-
-Natural chemists, the **Uggathaaa** society developed and advanced in unprecedented ways, all without the discovery of fire. Despite this enlightenment the **Uggathaaa** spent millennium stagnating on the bottom of their oceans, cycling through century-long periods of growth and decay until fate stepped in by way of a breathing mutation. This mutation stepped out on dry land, looked up at the stars, and questioned their existence.
-
-With the questioned asked, the massive industry and scientific infrastructure of thousands of years quickly took them to the Void. With their quick breeding the Commune quickly spread among the stars, quickly making enemies with their aggressive expansion. Whether their swarm tactics can adapt to the void and dominate the ocean of the stars like those of the home world is anyone's guess.

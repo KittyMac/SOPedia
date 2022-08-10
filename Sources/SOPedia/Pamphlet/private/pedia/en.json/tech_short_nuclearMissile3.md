@@ -1,1 +1,0 @@
-Advances in missile technology allow these missiles to carry heavier warheads, allowing more nuclear material to power the explosion. Nukes do bonus damage equal to 10% of ship current structure if they strike an unshielded target.

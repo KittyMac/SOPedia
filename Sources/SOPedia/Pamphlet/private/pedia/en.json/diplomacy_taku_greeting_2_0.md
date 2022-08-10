@@ -1,1 +1,0 @@
-The taku see you.

@@ -1,1 +1,0 @@
-Allows production of ship components on the planet surface, and delivered cheaply to low orbit for assembly. Decreases ship production cost by 10%.

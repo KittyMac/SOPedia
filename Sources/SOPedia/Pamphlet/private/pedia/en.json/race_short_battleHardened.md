@@ -1,1 +1,0 @@
-The race has evolved on a world constantly thrown into internal strife and conflict.  While tragic, this has also instilled the individuals of this race with keen instincts on battle tactics and designs, as well as formulating a culture that is accustomed to violence.  These races enjoy an increase in command points, as well as a +20% to ship armor and structure.

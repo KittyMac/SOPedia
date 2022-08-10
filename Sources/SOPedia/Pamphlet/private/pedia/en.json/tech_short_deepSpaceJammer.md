@@ -1,1 +1,0 @@
-A gigantic array of gamma emitters designed to foil long range scans of fleets in transit. Requires six system slots. Cannot be equipped on Starbases.

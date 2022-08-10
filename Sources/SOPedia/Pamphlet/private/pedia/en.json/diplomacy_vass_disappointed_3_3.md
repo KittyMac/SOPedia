@@ -1,1 +1,0 @@
-The Collective is displeased.

@@ -1,1 +1,0 @@
-Additional maneuvering thrusters provide an increase to the turning rate of the ship. Provides a 5% to 10% chance of evading lasers, gauss, and IPC (smaller chance of evasion the larger the ship). Suffers a 2x stacking penalty to cost.

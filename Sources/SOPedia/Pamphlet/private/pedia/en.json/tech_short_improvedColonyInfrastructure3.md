@@ -1,1 +1,0 @@
-Advances in city planning provides additional space for more buildings. Increases maximum colony building lots by 8.

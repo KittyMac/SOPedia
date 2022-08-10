@@ -1,1 +1,0 @@
-No penalty on low gravity worlds, increased penalties on normal and high gravity worlds.

@@ -1,1 +1,0 @@
-While this race's scientists may be smart, they tend to corral themselves down a few select paths.  Races with this trait have less options at each research stage to choose from, which will allow research more of the lower level technologies.

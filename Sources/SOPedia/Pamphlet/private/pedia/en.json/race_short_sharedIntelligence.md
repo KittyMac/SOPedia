@@ -1,1 +1,0 @@
-Beings of this race flourish when surrounded by more of their kind, resulting in bonuses to their productivity in high populations.  However, these races suffer a penalty in low populations as their collective intelligence is drastically reduced.

@@ -1,1 +1,0 @@
-Class O stars as very hot and extremely luminous, with most of their radiated output in the ultraviolet range. They are typically massive stars with very hot cores, burning through their hydrogen fuel very quickly. Class O stars are unlikely to have many planets at all, let alone habitable planets. Dwarf stars are older and cooler with decreased likelihood of habitable planets.

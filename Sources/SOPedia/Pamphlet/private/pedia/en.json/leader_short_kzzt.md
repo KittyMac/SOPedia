@@ -1,7 +1,0 @@
-**Ship:** Applies special armor to ship ordinances, making them more resilient to Point Defense Systems
-**Fleet:** 15% chance to evade enemy missiles and torpedoes
-**Ultimate:** Kzzt's intense knowledge of ballistics reduces the effectiveness of enemy ECM jammers
-
-“Close range combat is nothing but a butcher’s yard,” declared Admiral Kzzt of the Gnactic Space Federation.  Though his comrades derided him as a coward he held true to his beliefs, even as his words came back to haunt him.  When his fellow admirals, eager for blood on their claws, charged into the largest fleet battle the Federation had ever fought Kzzt held true to his beliefs and kept his command at extreme range.  Pouring thousands of missiles into the enemy, while dodging hundreds of return salvos, Kzzt’s and his command were the battle’s only survivors.
-
-As the highest-ranking military officer left in the Federation, Kzzt allied his people with the Draske Hegemony.  Continuing to study missiles and extended-envelop warfare Kzzt has perfected his long-distance strategy.  Now, using only racial Draske as his pilots, coupled with his intense understanding of long-range engagements, makes him a deadly threat that cannot be ignored on the battlefield.

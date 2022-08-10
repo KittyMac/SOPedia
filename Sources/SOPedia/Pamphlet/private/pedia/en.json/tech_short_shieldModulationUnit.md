@@ -1,1 +1,0 @@
-By modulating the energies used to power shields, scientists discovered a method to allow shields to work inside of nebulae. It has the additional benefit of increasing their effectiveness at blocking damage. Limit one per ship.

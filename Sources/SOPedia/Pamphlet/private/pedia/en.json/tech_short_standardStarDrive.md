@@ -1,1 +1,0 @@
-A standard star drive will allow your ships to travel 2 parsecs each turn.

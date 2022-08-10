@@ -1,1 +1,0 @@
-Race begins the game with a medium homeworld instead of a large homeworld.

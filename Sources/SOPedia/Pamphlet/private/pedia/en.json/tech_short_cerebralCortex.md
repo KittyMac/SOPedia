@@ -1,1 +1,0 @@
-A mobile laboratory linked to the First Cerebrum, increases research production by +3.  Cannot be equipped on Starbases.

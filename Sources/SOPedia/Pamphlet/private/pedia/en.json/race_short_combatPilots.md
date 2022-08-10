@@ -1,1 +1,0 @@
-Race is highly accustomed to the rigors of close combat high-speed maneuvering, resulting in increased combat speed and maneuverability across all ships.

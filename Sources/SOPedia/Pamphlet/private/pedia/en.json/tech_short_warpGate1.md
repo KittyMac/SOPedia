@@ -1,1 +1,0 @@
-A breakthrough in hyperspace navigation, the warp gate provides ships with pre-calculated navigations allowing them to travel between warp gates twice as fast as normal.

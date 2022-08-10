@@ -1,1 +1,0 @@
-Additional refinements on the elevator increase the efficiency of ship production. Decreases ship production cost by 20%.

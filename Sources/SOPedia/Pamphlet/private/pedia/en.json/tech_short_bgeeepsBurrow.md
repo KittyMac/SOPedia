@@ -1,1 +1,0 @@
-An orbital defense platform charged with defending the star system from enemy attack.

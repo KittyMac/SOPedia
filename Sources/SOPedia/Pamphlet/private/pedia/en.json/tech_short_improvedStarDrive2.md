@@ -1,1 +1,0 @@
-Additional refinements to the fission star drive will allow your ships to travel 5 parsecs each turn.

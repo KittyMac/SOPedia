@@ -1,2 +1,0 @@
-20% of Research is bonus Industry  
-This race of brawny nerds enjoys the practical application of scientific research in every day life. Minimum bonus of +1 industry per planet, bonus industry does not stack with other bonuses.

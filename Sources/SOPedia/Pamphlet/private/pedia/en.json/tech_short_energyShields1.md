@@ -1,1 +1,0 @@
-Surrounds the ship in a protective bubble of pure energy. Limit one per ship.

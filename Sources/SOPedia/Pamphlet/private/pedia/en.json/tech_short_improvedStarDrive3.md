@@ -1,1 +1,0 @@
-Using careful experimentation and exhaustive testing procedures, scientists can refine the star drive to the point that your ships can travel 7 parsecs each turn.

@@ -1,1 +1,0 @@
-A massive cannon which is the trademark weapon of Captain Gentry.

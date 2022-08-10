@@ -1,1 +1,0 @@
-Your researchers will join a galaxy-wide network of doctors and scientists, curing diseases and increasing empire population growth proportional to your research production.

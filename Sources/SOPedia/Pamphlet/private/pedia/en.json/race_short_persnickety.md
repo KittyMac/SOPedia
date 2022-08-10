@@ -1,1 +1,0 @@
-This race is naturally fussy, obsessing over small details while leaving more manual tasks undone.  Persnickety races suffer a -5% to morale and -10% to farming.  However, their fussiness does prove useful in streamlining production and research, resulting in +20% production and +20% research.

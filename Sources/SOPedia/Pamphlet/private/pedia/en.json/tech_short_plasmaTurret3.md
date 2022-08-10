@@ -1,1 +1,0 @@
-Advances in targeting technology can compute new trajectories for the plasma, allowing it more time to expand further in the same distance travelled.

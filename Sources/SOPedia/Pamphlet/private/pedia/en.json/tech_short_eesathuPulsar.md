@@ -1,1 +1,0 @@
-A pulse of unknown power that rips through nearby ships.

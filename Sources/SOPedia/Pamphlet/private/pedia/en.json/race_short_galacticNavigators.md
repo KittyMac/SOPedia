@@ -1,1 +1,0 @@
-Naturals at space traval, these races enjoy increased travel speeds and extended fuel range.

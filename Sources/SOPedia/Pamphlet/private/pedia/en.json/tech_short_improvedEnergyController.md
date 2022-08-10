@@ -1,1 +1,0 @@
-This controller doubles energy shield recharge rate by improving the effectiveness of the underlying energy relay systems on the ship. Limit one per ship.

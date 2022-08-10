@@ -1,1 +1,0 @@
-Standard ballistic missiles equipped with warheads powered by nuclear fission. Nukes do bonus damage equal to 4% of ship current structure if they strike an unshielded target.

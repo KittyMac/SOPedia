@@ -1,1 +1,0 @@
-An anti-matter powered star drive will allow your ships to travel 9 parsecs each turn.

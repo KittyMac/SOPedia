@@ -1,1 +1,0 @@
-Produces twice as many defensive ground troops, twice as fast.

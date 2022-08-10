@@ -1,1 +1,0 @@
-Advances in cargo micromanagement allows for the creation of a more advanced colony. Requires one colonist to build.

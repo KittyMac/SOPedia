@@ -1,1 +1,0 @@
-Advances in light-weight armor shielding provides your missiles and torpedos with additional defenses, making them more resilient to Point Defense Systems. Limit one per ship.

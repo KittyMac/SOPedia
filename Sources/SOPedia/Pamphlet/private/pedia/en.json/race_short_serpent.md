@@ -1,1 +1,0 @@
-A nasty space serpent.

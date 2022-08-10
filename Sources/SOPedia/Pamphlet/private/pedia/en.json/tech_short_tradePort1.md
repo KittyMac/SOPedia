@@ -1,1 +1,0 @@
-A port dedicated to intergalactic commerce increases colony income by 50%.

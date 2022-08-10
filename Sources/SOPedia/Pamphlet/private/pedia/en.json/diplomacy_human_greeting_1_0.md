@@ -1,1 +1,0 @@
-The Confederation greets you.

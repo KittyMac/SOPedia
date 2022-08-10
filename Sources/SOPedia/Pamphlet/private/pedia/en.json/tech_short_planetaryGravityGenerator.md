@@ -1,1 +1,0 @@
-This device stabilizes its gravitation pull to what is most natural for the occupying species.

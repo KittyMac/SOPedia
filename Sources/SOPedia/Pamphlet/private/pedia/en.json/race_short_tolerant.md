@@ -1,1 +1,0 @@
-Tolerant races are naturally resistant to irradiated and toxic atmospheres and materials.  They are able to perform minimal farming on radiated, barren, and toxic planets.  Empires of this race are familiar with colonizing these harsh environmens and receive no maintenance penalty costs for buildings on harsh planets.

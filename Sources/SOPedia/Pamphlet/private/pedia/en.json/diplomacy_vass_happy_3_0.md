@@ -1,1 +1,0 @@
-This Pleases the Collective.

@@ -1,1 +1,0 @@
-Race begins the game with a mineral poor homeworld.

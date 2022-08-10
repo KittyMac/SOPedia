@@ -1,1 +1,0 @@
-Warmest greetings to you.

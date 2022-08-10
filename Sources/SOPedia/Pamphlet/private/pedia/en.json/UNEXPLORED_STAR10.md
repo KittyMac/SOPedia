@@ -1,1 +1,0 @@
-Class F stars the most numerous of the blue-white stars. Not nearly as hot and volatile as their cousines, the Class F stars are quite often surrounded by mineral rich planets. Dwarf stars are older and cooler with decreased likelihood of habitable planets.

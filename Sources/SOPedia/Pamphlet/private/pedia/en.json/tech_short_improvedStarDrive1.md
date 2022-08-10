@@ -1,1 +1,0 @@
-A breakthrough in space propulsion, the nuclear star drive will allow your ships to travel 3 parsecs each turn.

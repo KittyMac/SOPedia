@@ -1,1 +1,0 @@
-Advances in city planning provides additional space for more population. Increases maximum colony population by 8.

@@ -1,1 +1,0 @@
-Class F stars the most numerous of the blue-white stars. Not nearly as hot and volatile as their cousines, the Class F stars are quite often surrounded by mineral rich planets. Habitable planets in binary systems often take advantage of the increased radiation exposure to provide a more fertaile environment.

@@ -1,1 +1,0 @@
-An expensive process that improves the environment of the planet, making it more hospitable for your colony.

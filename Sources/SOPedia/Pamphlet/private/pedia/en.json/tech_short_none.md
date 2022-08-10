@@ -1,1 +1,0 @@
-An empty system slot. Use the ship designer to place equip a weapon on this ship design.
