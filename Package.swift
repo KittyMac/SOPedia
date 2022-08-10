@@ -18,6 +18,9 @@ let package = Package(
     targets: [
         .target(
             name: "SOPedia",
+            dependencies: [
+                .product(name: "PamphletFramework", package: "Pamphlet")
+            ],
             plugins: [
                 .plugin(name: "PamphletPlugin", package: "Pamphlet")
             ]
