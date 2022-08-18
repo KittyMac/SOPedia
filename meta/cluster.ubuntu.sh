@@ -12,33 +12,25 @@ read -p "Initialize node as cluster${N} @ 192.168.1.${N}. Are you sure? " -n 1 -
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
     # install docker
-    sudo apt-get -q remove -y docker docker-engine docker.io containerd runc
+    sudo apt-get -q remove docker docker-engine docker.io containerd runc
     sudo apt-get -q update -y
     sudo apt-get -q install -y \
-        apt-transport-https \
         ca-certificates \
         curl \
-        gnupg-agent \
-        software-properties-common \
-        htop
-
-    #if [[ -f "/usr/share/keyrings/docker-archive-keyring.gpg" ]]; then
-    #    echo "docker gpg file already exists"
-    #else
-    rm -f /usr/share/keyrings/docker-archive-keyring.gpg
-    curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
-    #fi
+        gnupg \
+        lsb-release \
+        htop \
+        network-manager
     
-    if [[ "$ARCH" == "x86_64" ]]; then
-        echo "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-    elif [[ "$ARCH" == "aarch64" ]]; then
-        echo "deb [arch=arm64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-    else
-        echo "deb [arch=armhf signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-    fi
+    sudo mkdir -p /etc/apt/keyrings
+    curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+    
+    echo \
+      "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+      $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 
     sudo apt-get -q update -y
-    sudo apt-get -q install -y docker-ce docker-ce-cli containerd.io
+    sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
     
     # join the docker swarm
     if [[ "$SWARM_TOKEN" == "" ]]; then
@@ -48,33 +40,15 @@ then
     fi
 
     # (new) method uses the NetworkManager
-    if which nmcli >/dev/null; then
-        sudo nmcli general hostname cluster${N}
-        
-        sudo nmcli con mod "Wired connection 1" ipv4.addresses "192.168.1.${N}/24" ipv4.gateway "192.168.1.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
-		sudo nmcli con mod "Wired connection 2" ipv4.addresses "192.168.1.${N}/24" ipv4.gateway "192.168.1.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
-		sudo nmcli con mod "Wired connection 3" ipv4.addresses "192.168.1.${N}/24" ipv4.gateway "192.168.1.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
-        #nmcli con mod "Wired connection 1" ipv4.addresses "" ipv4.gateway "" ipv4.dns "" ipv4.dns-search "" ipv4.method "auto"
-    else
-        
-        # (old) set the hostname
-        sudo sed -i "s/ubuntu[0-9]*/cluster${N}/g" /etc/hostname
-        sudo sed -i "s/odroid[0-9]*/cluster${N}/g" /etc/hostname
-        sudo sed -i "s/ubuntu[0-9]*/cluster${N}/g" /etc/hosts
-        sudo sed -i "s/odroid[0-9]*/cluster${N}/g" /etc/hosts
-        
-        # (old) method, modify the netplan directly
-        sudo rm -f /etc/netplan/00-installer-config.yaml
-        sudo rm -f /etc/netplan/50-cloud-init.yaml
     
-        if [[ "$ARCH" == "x86_64" ]]; then
-            printf "network:\n${S}ethernets:\n${S}${S}enp2s0:\n${S}${S}${S}dhcp4: no\n${S}${S}${S}addresses:\n${S}${S}${S} - 192.168.1.${N}/24\n${S}${S}${S}gateway4: 192.168.1.254\n${S}${S}${S}nameservers:\n${S}${S}${S}${S}addresses: [8.8.8.8, 1.1.1.1]\n${S}version: 2\n" | sudo tee /etc/netplan/50-cloud-init.yaml
-        else
-            printf "network:\n${S}ethernets:\n${S}${S}eth0:\n${S}${S}${S}dhcp4: no\n${S}${S}${S}addresses:\n${S}${S}${S} - 192.168.1.${N}/24\n${S}${S}${S}gateway4: 192.168.1.254\n${S}${S}${S}nameservers:\n${S}${S}${S}${S}addresses: [8.8.8.8, 1.1.1.1]\n${S}version: 2\n" | sudo tee /etc/netplan/50-cloud-init.yaml
-        fi
-        
-        sudo netplan apply
-    fi    
+    echo $'[main]\nplugins=ifupdown,keyfile\n\n[ifupdown]\nmanaged=true\n\n[keyfile]\nunmanaged-devices=none\n\n[device]\nwifi.scan-rand-mac-address=no' | sudo tee /etc/NetworkManager/NetworkManager.conf
+    
+    sudo nmcli general hostname cluster${N}
+    
+    sudo nmcli con mod "Wired connection 1" ipv4.addresses "192.168.1.${N}/24" ipv4.gateway "192.168.1.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
+	sudo nmcli con mod "Wired connection 2" ipv4.addresses "192.168.1.${N}/24" ipv4.gateway "192.168.1.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
+	sudo nmcli con mod "Wired connection 3" ipv4.addresses "192.168.1.${N}/24" ipv4.gateway "192.168.1.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
+    #sudo nmcli con mod "Wired connection 1" ipv4.addresses "" ipv4.gateway "" ipv4.dns "" ipv4.dns-search "" ipv4.method "auto"
     
     echo "Finished!"
     
