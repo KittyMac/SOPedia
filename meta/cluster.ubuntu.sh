@@ -51,6 +51,8 @@ then
     # (new) method uses the NetworkManager
     echo $'[main]\nplugins=ifupdown,keyfile\n\n[ifupdown]\nmanaged=true\n\n[keyfile]\nunmanaged-devices=none\n\n[device]\nwifi.scan-rand-mac-address=no' | sudo tee /etc/NetworkManager/NetworkManager.conf
     
+    sudo service network-manager restart
+    
     sudo nmcli general hostname cluster${N}
     
     sudo nmcli con mod "Wired connection 1" ipv4.addresses "192.168.1.${N}/24" ipv4.gateway "192.168.1.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
