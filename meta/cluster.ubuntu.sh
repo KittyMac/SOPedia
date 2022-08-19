@@ -1,5 +1,21 @@
 #!/bin/bash
 
+apt_wait () {
+    echo "Waiting for unattended-upgrades"
+    while sudo fuser /var/lib/dpkg/lock >/dev/null 2>&1 ; do
+        sleep 1
+    done
+    while sudo fuser /var/lib/apt/lists/lock >/dev/null 2>&1 ; do
+        sleep 1
+    done
+    if [ -f /var/log/unattended-upgrades/unattended-upgrades.log ]; then
+        while sudo fuser /var/log/unattended-upgrades/unattended-upgrades.log >/dev/null 2>&1 ; do
+            sleep 1
+        done
+    fi
+    echo "Finished"
+}
+
 SWARM_TOKEN="$1"
 MANAGER_IP_ADDRESS="$2"
 
@@ -11,6 +27,10 @@ read -p 'Enter 192.168.1.XXX: ' N
 read -p "Initialize node as cluster${N} @ 192.168.1.${N}. Are you sure? " -n 1 -r
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
+    
+    # wait for unattended-update to finish
+    apt_wait
+    
     # install docker
     sudo apt-get -q update -y
     sudo apt-get -q install -y \
