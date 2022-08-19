@@ -171,7 +171,7 @@
             "title": "Astrophysics Research",
             "techAchievements": [
                 {
-                    "title": "Hull Design - Transport",
+                    "title": "Hull Design - Troop Ship",
                     "abbrev": "TP",
                     "shipHullRefinements": [
                         { "uuid":"shipHullTransport", "cost":200, "shipSize":"8", "structure":60, "armor":60, "targetArrays":1, "weaponSlots":1, "systemSlots":1, "designCost":200 }
