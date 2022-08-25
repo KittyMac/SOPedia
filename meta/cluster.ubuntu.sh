@@ -35,8 +35,7 @@ then
     sudo apt-get -q update -y
     sudo apt-get -q install -y \
         curl \
-        htop \
-        network-manager
+        htop
     
     curl -fsSL https://get.docker.com -o get-docker.sh
     sudo sh get-docker.sh
@@ -48,17 +47,18 @@ then
         sudo docker swarm join --token "$SWARM_TOKEN" "$MANAGER_IP_ADDRESS"
     fi
 
-    # (new) method uses the NetworkManager
-    echo $'[main]\nplugins=ifupdown,keyfile\n\n[ifupdown]\nmanaged=true\n\n[keyfile]\nunmanaged-devices=none\n\n[device]\nwifi.scan-rand-mac-address=no' | sudo tee /etc/NetworkManager/NetworkManager.conf
+    # (old) set the hostname
+    sudo sed -i "s/ubuntu[0-9]*/cluster${N}/g" /etc/hostname
+    sudo sed -i "s/ubuntu[0-9]*/cluster${N}/g" /etc/hosts
     
-    sudo service network-manager restart
+    # (old) method, modify the netplan directly
+    sudo rm -f /etc/netplan/00-installer-config.yaml
+    sudo rm -f /etc/netplan/50-cloud-init.yaml
+
+    printf "network:\n${S}ethernets:\n${S}${S}eth0:\n${S}${S}${S}dhcp4: no\n${S}${S}${S}addresses:\n${S}${S}${S} - 192.168.1.${N}/24\n${S}${S}${S}gateway4: 192.168.1.254\n${S}${S}${S}nameservers:\n${S}${S}${S}${S}addresses: [8.8.8.8, 1.1.1.1]\n${S}version: 2\n" | sudo tee /etc/netplan/50-cloud-init.yaml
     
-    sudo nmcli general hostname cluster${N}
+    sudo netplan apply
     
-    sudo nmcli con mod "eth0" ipv4.addresses "192.168.1.${N}/24" ipv4.gateway "192.168.1.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
-	sudo nmcli con mod "eth1" ipv4.addresses "192.168.1.${N}/24" ipv4.gateway "192.168.1.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
-	sudo nmcli con mod "eth2" ipv4.addresses "192.168.1.${N}/24" ipv4.gateway "192.168.1.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
-    #sudo nmcli con mod "Wired connection 1" ipv4.addresses "" ipv4.gateway "" ipv4.dns "" ipv4.dns-search "" ipv4.method "auto"
     
     echo "Finished!"
     
