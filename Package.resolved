@@ -41,8 +41,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/KittyMac/Pamphlet.git",
       "state" : {
-        "revision" : "a4eedf5e848e74272228684fdc4415ee3bc7cda7",
-        "version" : "0.3.47"
+        "revision" : "e18c44d1fa21dac760021e25620445b0a0f8419f",
+        "version" : "0.3.49"
       }
     },
     {
