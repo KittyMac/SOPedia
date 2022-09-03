@@ -59,6 +59,8 @@
         
         { "order":39, "uuid": "sanctionedPiracy", "title": "Sanctioned Piracy", "cost": 2 },
         
+        { "order":40, "uuid": "aquatic", "title": "Aquatic", "cost": 3 },
+        
     ],
     
     "races": [                
@@ -106,7 +108,7 @@
             "research3"
         ]},
         { "uuid": "standard_uggathaaa", "raceType": "uggathaaa", "title":"Uggathaaa", "longTitle":"The Uggathaaa Commune", "standard":true, "biography":"race_short_uggathaaa.md", "raceAttributeTypes": [ 
-            "industry1"
+            "aquatic"
         ]},
         { "uuid": "standard_taku", "raceType": "taku", "title":"T'aku", "longTitle":"The T'Aku Junta", "standard":true, "biography":"race_short_taku.md", "raceAttributeTypes": [ 
             "industry1"
