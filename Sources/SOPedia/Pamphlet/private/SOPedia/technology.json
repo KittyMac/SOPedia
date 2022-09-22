@@ -300,10 +300,10 @@
                     "title": "Improved Star Drive",
                     "abbrev": "ISD",
                     "techRefinements": [
-                        { "uuid":"improvedStarDrive1", "title":"1", "cost":400, "value":7 },
-                        { "uuid":"improvedStarDrive2", "title":"2", "cost":800, "value":10 },
-                        { "uuid":"improvedStarDrive3", "title":"3", "cost":1600, "value":14 },
-                        { "uuid":"improvedStarDrive4", "title":"4", "cost":3200, "value":20 }
+                        { "uuid":"improvedStarDrive1", "title":"1", "cost":400, "value":3 },
+                        { "uuid":"improvedStarDrive2", "title":"2", "cost":800, "value":5 },
+                        { "uuid":"improvedStarDrive3", "title":"3", "cost":1600, "value":7 },
+                        { "uuid":"improvedStarDrive4", "title":"4", "cost":3200, "value":9 }
                     ]
                 },
                 {
