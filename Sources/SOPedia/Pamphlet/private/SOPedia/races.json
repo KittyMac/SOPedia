@@ -41,7 +41,7 @@
         { "order":29, "uuid": "sharedIntelligence", "title": "Shared Intelligence", "cost": 6, "group": "Universal Quirk" },
         
         { "order":30, "uuid": "charismatic", "title": "Charismatic", "cost": 2, "group": "Beauty & Beast" },
-        { "order":31, "uuid": "repulsive", "title": "Repulsive", "cost": -2, "group": "Beauty & Beast" },
+        { "order":31, "uuid": "repulsive", "title": "Repulsive", "cost": -1, "group": "Beauty & Beast" },
         
         { "order":32, "uuid": "galacticNavigators", "title": "Galactic Navigators", "cost": 2 },
         

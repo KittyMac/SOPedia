@@ -1,1 +1,1 @@
-This race is naturally likeable and pleasing to be around.  Recruiting spies is cheaper, they gain a +20% bonus to spying. Recruiting leaders is also cheaper, with reduced maintenance cost.
+This race is naturally likeable and pleasing to be around. Per turn cost for leaders is reduced by 50%, you may recruit one more leader than normal and your trade/research/tribute pacts are 10% more effective.

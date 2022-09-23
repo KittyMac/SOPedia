@@ -1,1 +1,1 @@
-This race is untrusting and generally not pleasing to be around.  Recruiting and maintaining spies is more expensive, and they suffer a -20% penality to offensive spying.
+This race is untrusting and generally not pleasing to be around. Your trade/research/tribute pacts are 10% less effective, your per turn cost for leaders is increased by 20% and the value offered for scraping ships/building is reduced by 20%.
