@@ -18,7 +18,7 @@
             "title": "Eesathu Pulsar",
             "abbrev": "EP",
             "shipWeaponRefinements": [
-                { "special":true, "uuid":"eesathuPulsar", "title":"", "cost":20000, "damage":"100,80", "range":6, "ammo":-1, "missile":false, "rate":4, "designCost":0, "armorMod":1, "structureMod":1, "shieldMod":1, "stackingPenalty":0 },
+                { "special":true, "uuid":"eesathuPulsar", "title":"", "cost":20000, "damage":"10,8", "range":8, "ammo":-1, "missile":false, "rate":4, "designCost":0, "armorMod":1, "structureMod":1, "shieldMod":1, "stackingPenalty":0 },
             ]
         },
         {
