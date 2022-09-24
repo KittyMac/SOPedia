@@ -1,1 +1,1 @@
-We give you the hand and wing of friendship.
+We shall be as one people, ally!

@@ -1,1 +1,1 @@
-We will clip your wings as you have clipped ours.
+Do you feel that? It is our tides rising against you!

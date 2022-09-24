@@ -1,1 +1,1 @@
-Your gift pleases the Matriarch.
+Long live our alliance!

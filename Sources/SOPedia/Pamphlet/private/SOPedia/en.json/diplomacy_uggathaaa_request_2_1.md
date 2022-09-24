@@ -1,1 +1,1 @@
-The Matriarch will reply shortly.
+May your request be delivered on the swiftest of currents.

@@ -1,1 +1,1 @@
-The Matriarch will decide quickly.
+May the oceans provide.

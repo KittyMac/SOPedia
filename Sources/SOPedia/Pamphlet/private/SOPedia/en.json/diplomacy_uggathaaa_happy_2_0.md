@@ -1,1 +1,1 @@
-The Hegemony is grateful for your thoughtfulness.
+That was quite thoughtful of you, thank you for that.

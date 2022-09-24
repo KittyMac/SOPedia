@@ -1,1 +1,1 @@
-Sun’s warmth be upon you.
+Come meet with us.

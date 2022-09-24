@@ -1,1 +1,1 @@
-Your skies will grow black with our ships!
+Beware the darker places, for we will be waiting.

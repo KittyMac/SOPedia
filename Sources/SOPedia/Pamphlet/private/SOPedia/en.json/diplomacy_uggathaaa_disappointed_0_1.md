@@ -1,1 +1,1 @@
-Do not continue displeasing the Matriarch.
+Refusal will be met with swift retribution.

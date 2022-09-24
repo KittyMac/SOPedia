@@ -1,1 +1,1 @@
-The Hegemony will consider this.
+Your are bold, I give you that.

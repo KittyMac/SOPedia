@@ -1,1 +1,1 @@
-Fly softly, lest this lead to turbulent skies.
+The oceans were not so turbulent that you could not accept. 

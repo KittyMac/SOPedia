@@ -1,1 +1,1 @@
-The Hegemony will continue to fly forward.  Will you be by our side?.
+When we needed you most you were not there; we shall remember.

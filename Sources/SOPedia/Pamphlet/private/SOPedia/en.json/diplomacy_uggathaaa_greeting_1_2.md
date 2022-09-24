@@ -1,1 +1,1 @@
-The Hegemony listens to your words.
+May the oceans provide.

@@ -1,1 +1,1 @@
-The Hegemony is interested in your proposal.
+We shall discuss this proposal quickly.

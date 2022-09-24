@@ -1,1 +1,1 @@
-We will give this our full consideration.
+We will give this our full attention.

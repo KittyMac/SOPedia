@@ -1,1 +1,1 @@
-You are wise to seek to appease us.
+Your good intentions have been noted.

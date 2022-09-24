@@ -1,1 +1,1 @@
-Our fleets shall compete with yours.  A thousand years of prosperity to the victor.
+Even the mightiest will fall in the face of our fury!

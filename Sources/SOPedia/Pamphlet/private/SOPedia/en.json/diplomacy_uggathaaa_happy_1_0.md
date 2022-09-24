@@ -1,1 +1,1 @@
-It is wise to so honor your elders.
+It is wise to honor us so.

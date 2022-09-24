@@ -1,1 +1,1 @@
-Your request will be moved to the front of the line.
+I pray that we may reach some accomodation.

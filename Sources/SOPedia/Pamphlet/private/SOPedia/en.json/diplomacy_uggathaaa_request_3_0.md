@@ -1,1 +1,1 @@
-Swift wings will carry your request.
+As our honored ally we will give your request our highest priority.

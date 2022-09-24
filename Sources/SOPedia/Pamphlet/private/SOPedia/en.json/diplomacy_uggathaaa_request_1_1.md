@@ -1,1 +1,1 @@
-The Matriarch’s wisdom will decide this matter.
+Our waters shall be similarly salinated.

@@ -1,1 +1,1 @@
-The Matriarch is disappointed it has come to this.
+Can you feel it? It is us turning away from you.

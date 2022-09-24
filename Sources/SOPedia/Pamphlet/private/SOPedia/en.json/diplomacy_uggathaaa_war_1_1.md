@@ -1,1 +1,1 @@
-A thousand generations demand you answer for your actions.
+May the waters receed from your worlds, for nothing else will save your from our wrath.

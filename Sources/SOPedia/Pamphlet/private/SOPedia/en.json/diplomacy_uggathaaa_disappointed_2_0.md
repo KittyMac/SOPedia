@@ -1,1 +1,1 @@
-In turbulent skies you must time your wings and fly on.
+Truly this was an unexpected refusal.

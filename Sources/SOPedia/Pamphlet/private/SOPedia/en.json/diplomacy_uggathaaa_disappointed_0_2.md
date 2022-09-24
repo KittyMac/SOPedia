@@ -1,1 +1,1 @@
-Do you seek to anger us?
+I told them is was a waste of time, but would they listen?

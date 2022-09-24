@@ -1,1 +1,1 @@
-This gives us cause to fly in celebration
+We shall celebrate this extension of your friendship, thank you.

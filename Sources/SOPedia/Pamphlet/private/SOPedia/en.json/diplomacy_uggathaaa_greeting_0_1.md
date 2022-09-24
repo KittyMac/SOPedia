@@ -1,1 +1,1 @@
-What dark hole did you crawl forth from?
+Something told me this will be a short communication.

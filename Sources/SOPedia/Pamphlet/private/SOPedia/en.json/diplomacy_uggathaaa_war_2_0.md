@@ -1,1 +1,1 @@
- We will protect our eggs from false friendship.
+Until such times that we are friends again, we will have war.

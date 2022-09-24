@@ -1,1 +1,1 @@
-Your gift will ensure the prosperity of the next generation.
+Some of our kind still doubt your intentions, but this gift should go a long way to quell their fears.

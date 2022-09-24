@@ -1,1 +1,1 @@
-You have misinterpreted our tolerance for weakness.
+We will no longer tolerate your actions; prepare for war!

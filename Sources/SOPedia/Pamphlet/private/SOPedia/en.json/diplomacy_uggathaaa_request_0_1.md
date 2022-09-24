@@ -1,1 +1,1 @@
-Keep begging while your request is relayed.
+I pray this will not be a waste of both our time.

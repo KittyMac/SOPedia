@@ -1,1 +1,1 @@
-When we all compete, we all win.
+Greetings stanger.

@@ -1,1 +1,1 @@
-Our wings lift with joy.
+Our empire shall rejoice at your kindness.

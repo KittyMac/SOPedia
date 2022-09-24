@@ -1,1 +1,2 @@
-What do you want on this sunless day?
+Quickly, I have little patience for your drivel.
+

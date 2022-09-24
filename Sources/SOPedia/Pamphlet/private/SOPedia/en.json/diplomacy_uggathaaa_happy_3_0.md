@@ -1,1 +1,1 @@
-May a thousand generations prosper from this.
+Your generosity overwhelms us!

@@ -1,1 +1,1 @@
-The Hegemony welcomes you.
+Together may we rule all the oceans.

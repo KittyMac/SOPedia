@@ -1,1 +1,1 @@
-We will not stand idly by while you continue to insult us.
+And we thought things were going so well. We will destroy you now.

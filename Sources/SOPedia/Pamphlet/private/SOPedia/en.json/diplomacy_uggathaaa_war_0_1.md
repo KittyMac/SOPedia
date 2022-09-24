@@ -1,1 +1,2 @@
-The lives of our pilots will be well spend to eradicate you from the Galaxy.
+A life stranded on sand is all we will allow you to live.
+

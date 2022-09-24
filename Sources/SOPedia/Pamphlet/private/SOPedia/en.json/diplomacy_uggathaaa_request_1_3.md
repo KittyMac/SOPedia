@@ -1,1 +1,1 @@
-Be assured that your request will be answered in due time.
+We shall respond in due time.

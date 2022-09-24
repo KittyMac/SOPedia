@@ -1,1 +1,1 @@
-The sun shines upon our alliance, brother.
+May the waters keep you whole.

@@ -1,1 +1,1 @@
-Sun’s warmth be with you.
+This galaxy will be properous under our alliance.

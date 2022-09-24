@@ -1,1 +1,1 @@
-I will fly with you, brother.
+We will prepare a feast in your honor!
