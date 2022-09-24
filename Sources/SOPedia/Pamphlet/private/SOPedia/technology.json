@@ -200,6 +200,7 @@
                     "techRefinements": [
                         { "uuid":"marineBarracks1", "title":"1", "cost":100 },
                         { "uuid":"marineBarracks2", "title":"2", "cost":200 },
+                        { "uuid":"marineBarracks3", "title":"3", "cost":400 },
                     ]
                 }
             ]
@@ -285,8 +286,8 @@
                     "techRefinements": [
                         { "uuid":"improvedFuelCells1", "title":"1", "cost":600, "value":7 },
                         { "uuid":"improvedFuelCells2", "title":"2", "cost":1200, "value":10 },
-                        { "uuid":"improvedFuelCells3", "title":"3", "cost":2400, "value":14 },
-                        { "uuid":"improvedFuelCells4", "title":"4", "cost":4800, "value":20 }
+                        { "uuid":"improvedFuelCells3", "title":"3", "cost":2400, "value":13 },
+                        { "uuid":"improvedFuelCells4", "title":"4", "cost":4800, "value":18 }
                     ]
                 },
                 {
@@ -301,9 +302,9 @@
                     "abbrev": "ISD",
                     "techRefinements": [
                         { "uuid":"improvedStarDrive1", "title":"1", "cost":400, "value":3 },
-                        { "uuid":"improvedStarDrive2", "title":"2", "cost":800, "value":5 },
-                        { "uuid":"improvedStarDrive3", "title":"3", "cost":1600, "value":7 },
-                        { "uuid":"improvedStarDrive4", "title":"4", "cost":3200, "value":9 }
+                        { "uuid":"improvedStarDrive2", "title":"2", "cost":800, "value":4 },
+                        { "uuid":"improvedStarDrive3", "title":"3", "cost":1600, "value":5 },
+                        { "uuid":"improvedStarDrive4", "title":"4", "cost":3200, "value":6 }
                     ]
                 },
                 {

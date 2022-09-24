@@ -27,6 +27,7 @@
         
         { "uuid":"marineBarracks1", "title": "Marine Barracks 1", "cost":40, "upkeep":2, "space":1, "singleton":true, "techDependencys": [ "marineBarracks1" ] },
         { "uuid":"marineBarracks2", "title": "Marine Barracks 2", "cost":80, "upkeep":2, "space":1, "singleton":true, "techDependencys": [ "marineBarracks2" ], "upgradesBuildings": [ "marineBarracks1" ]},
+        { "uuid":"marineBarracks3", "title": "Marine Barracks 3", "cost":160, "upkeep":4, "space":1, "singleton":true, "techDependencys": [ "marineBarracks3" ], "upgradesBuildings": [ "marineBarracks2" ]},
         
         { "uuid":"artificialNebula", "title": "Artificial Nebula", "cost":1500, "upkeep":5, "space":0, "singleton":true, "fortification":true, "techDependencys": [ "artificialNebula" ] },
         
@@ -111,6 +112,7 @@
 			
     			"marineBarracks1",
     			"marineBarracks2",
+                "marineBarracks3",
     			"warpGate1",
     			"warpGate2"
     		]
@@ -148,6 +150,7 @@
 			
     			"marineBarracks1",
     			"marineBarracks2",
+                "marineBarracks3",
     			"warpGate1",
     			"warpGate2",
 			
@@ -195,6 +198,7 @@
 			
     			"marineBarracks1",
     			"marineBarracks2",
+                "marineBarracks3",
     			"warpGate1",
     			"warpGate2"
     		]
@@ -206,6 +210,7 @@
     		"buildings": [
     			"marineBarracks1",
     			"marineBarracks2",
+                "marineBarracks3",
     			"warpGate1",
     			"warpGate2",
 			
