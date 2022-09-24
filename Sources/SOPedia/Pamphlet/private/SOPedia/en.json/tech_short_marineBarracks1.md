@@ -1,1 +1,1 @@
-Allows construction of troop ships. Produces defensive ground troops.
+Allows construction of troop ships and the provisiong of marines for planetary defense. Produces one marine each turn and supports as many marines as 50% of the planet's maximum population capacity.

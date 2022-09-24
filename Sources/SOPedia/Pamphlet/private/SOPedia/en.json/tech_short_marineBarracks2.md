@@ -1,1 +1,1 @@
-Produces twice as many defensive ground troops, twice as fast.
+Allows construction of troop ships and the provisiong of marines for planetary defense. Produces two marines each turn and supports as many marines the planet's maximum population capacity.
