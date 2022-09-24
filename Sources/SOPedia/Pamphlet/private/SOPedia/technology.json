@@ -53,9 +53,9 @@
                     "title": "Laser Beam",
                     "abbrev": "L",
                     "shipWeaponRefinements": [
-                        { "uuid":"laserBeam1", "title":"1", "cost":200, "damage":"6,2", "range":13, "ammo":-1, "missile":false, "rate":4, "designCost":50, "armorMod":1, "structureMod":0.5, "shieldMod":2.0, "stackingPenalty":0 },
-                        { "uuid":"laserBeam2", "title":"2", "cost":1000, "damage":"8,3", "range":13, "ammo":-1, "missile":false, "rate":4, "designCost":50, "armorMod":1, "structureMod":0.5, "shieldMod":2.0, "stackingPenalty":0 },
-                        { "uuid":"laserBeam3", "title":"3", "cost":1800, "damage":"12,5", "range":13, "ammo":-1, "missile":false, "rate":4, "designCost":50, "armorMod":1, "structureMod":0.5, "shieldMod":2.0, "stackingPenalty":0 }
+                        { "uuid":"laserBeam1", "title":"1", "cost":200, "damage":"4,4", "range":13, "ammo":-1, "missile":false, "rate":4, "designCost":50, "armorMod":1, "structureMod":0.5, "shieldMod":2.0, "stackingPenalty":0 },
+                        { "uuid":"laserBeam2", "title":"2", "cost":800, "damage":"7,7", "range":13, "ammo":-1, "missile":false, "rate":4, "designCost":50, "armorMod":1, "structureMod":0.5, "shieldMod":2.0, "stackingPenalty":0 },
+                        { "uuid":"laserBeam3", "title":"3", "cost":1200, "damage":"10,10", "range":13, "ammo":-1, "missile":false, "rate":4, "designCost":50, "armorMod":1, "structureMod":0.5, "shieldMod":2.0, "stackingPenalty":0 }
                     ]
                 },
                 {
