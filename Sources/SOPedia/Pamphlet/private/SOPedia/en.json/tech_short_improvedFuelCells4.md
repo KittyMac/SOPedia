@@ -1,1 +1,1 @@
-Advances in anti-matter cells can fuel your ships to destinations up to 20 parsecs away from the nearest friendly settlement.
+Advances in anti-matter cells can fuel your ships to destinations up to 18 parsecs away from the nearest friendly settlement.
