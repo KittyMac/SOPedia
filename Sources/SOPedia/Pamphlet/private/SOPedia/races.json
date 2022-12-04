@@ -74,7 +74,7 @@
         { "uuid": "standard_isather", "raceType": "isather", "title":"Isather", "longTitle":"The Isather Dominion", "standard":true, "biography":"race_short_isather.md", "raceAttributeTypes": [ 
             "research1", 
             "repulsive", 
-            "growth2", 
+            "richHomeworld", 
             "industry3", 
             "battleHardened", 
             "sanctionedPiracy", 
