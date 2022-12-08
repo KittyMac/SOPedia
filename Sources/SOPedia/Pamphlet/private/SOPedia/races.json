@@ -116,6 +116,7 @@
 			"research1",
 			"farming3",
 			"industry2",
+			"naturalTinkers"
         ]},
         { "uuid": "standard_taku", "raceType": "taku", "title":"T'aku", "longTitle":"The T'Aku Junta", "standard":true, "biography":"race_short_taku.md", "raceAttributeTypes": [ 
             "industry1"
