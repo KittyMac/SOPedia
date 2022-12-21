@@ -1,1 +1,1 @@
-A breakthrough in wormhole technology, these advanced warp gates allow ships to travel to between warp gates in a four turns regardless of the distance.
+A breakthrough in wormhole technology, these advanced warp gates allow ships to travel between gates in four turns regardless of the distance.
