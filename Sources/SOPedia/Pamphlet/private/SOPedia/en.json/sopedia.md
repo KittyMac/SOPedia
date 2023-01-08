@@ -1,8 +1,8 @@
 ## Welcome to the SOPedia!
 
-The Starbase Orion Encyclopedia (SOPedia) contains a variety of information for Starbase Orion, from in-game content such as technology description to player contributed content like strategy guides and tips. You can reference any section in the SOPedia through in game chat by using **[** **]**. For example, to link someone to Laser Beam 3 simple enter **[laserBeam3]** in your chat message.
+The Starbase Orion Encyclopedia (SOPedia) contains a variety of information, from in-game content such as technology description to player contributed content like strategy guides and tips. You can reference any section of the SOPedia with in-game chat by using **[** **]**. For example, to link someone to Laser Beam 3 simply enter **[laserBeam3]** in your chat message.
 
-The [SOPedia Github project](https://github.com/KittyMac/SOPedia) drives all of this content and modifications from the community are welcome! If you don't know what that is but still want to contribute please reach out on Discord.
+-----
 
 ### Strategy Guides
 
@@ -104,7 +104,7 @@ The [SOPedia Github project](https://github.com/KittyMac/SOPedia) drives all of 
 * [Energy Shields 3](javascript:openPedia('energyShields3'))
 * [Energy Shields 4](javascript:openPedia('energyShields4'))
 * [Exopolitics 1](javascript:openPedia('exopolitics1'))
-* [exopolitics 2](javascript:openPedia('exopolitics2'))
+* [Exopolitics 2](javascript:openPedia('exopolitics2'))
 * [Fast Missile Launcher](javascript:openPedia('fastMissileLauncher'))
 * [Gaia Device](javascript:openPedia('gaiaDevice'))
 * [Gauss Turret 1](javascript:openPedia('gaussTurret1'))
@@ -177,7 +177,7 @@ The [SOPedia Github project](https://github.com/KittyMac/SOPedia) drives all of 
 * [Space Elevator 1](javascript:openPedia('spaceElevator1'))
 * [Space Elevator 2](javascript:openPedia('spaceElevator2'))
 * [Standard Star Drive](javascript:openPedia('standardStarDrive'))
-* [Starbase 1 1](javascript:openPedia('starbase1'))
+* [Starbase 1](javascript:openPedia('starbase1'))
 * [Starbase 2](javascript:openPedia('starbase2'))
 * [Starbase 3](javascript:openPedia('starbase3'))
 * [Stellar Burst Cannon](javascript:openPedia('stellarBurstCannon'))
@@ -190,3 +190,6 @@ The [SOPedia Github project](https://github.com/KittyMac/SOPedia) drives all of 
 * [Warp Gate 1](javascript:openPedia('warpGate1'))
 * [Warp Gate 2](javascript:openPedia('warpGate2'))
 
+------
+
+The [SOPedia Github project](https://github.com/KittyMac/SOPedia) drives all of the content and pull requests from the community are welcome! If you don't know what that is but still want to contribute please reach out on Discord.
