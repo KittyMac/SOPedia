@@ -1,3 +1,7 @@
+---
+title: STRATEGY GUIDE FOR STARBASE ORION V1.2.5
+---
+
 ###Preamble
 
 The following is a copy of the original **Strategy Guide for Starbase Orion** written by **anthee**, a highly regarded veteran player. It was originally posted to the Starbase Orion 1 forums in 2014, and saved here for posterity. While the content may not be 100% accurate to Starbase Orion 10, there is still a lot of useful information here.
