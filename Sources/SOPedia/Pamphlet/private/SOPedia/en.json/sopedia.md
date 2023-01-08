@@ -67,7 +67,7 @@ The Starbase Orion Encyclopedia (SOPedia) contains a variety of information, fro
 * [Morph](javascript:openPedia('morph'))
 * [Xin-krek](javascript:openPedia('xinKrek'))
 
-### Militry Leaders
+### Military Leaders
 
 * [Cla-TK-7-7A](javascript:openPedia('cla'))
 * [Eesathu](javascript:openPedia('eesathu'))
