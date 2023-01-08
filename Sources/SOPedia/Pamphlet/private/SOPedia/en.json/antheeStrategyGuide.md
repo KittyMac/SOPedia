@@ -1,6 +1,10 @@
+---
+title: Strategy Guide for Starbase Orion 1
+---
+
 ###Preamble
 
-The following is a copy of the original **Strategy Guide for Starbase Orion** written by **anthee**, a highly regarded veteran player. It was originally posted to the Starbase Orion 1 forums in 2014, and saved here for posterity. While the content may not be 100% accurate to Starbase Orion 10, there is still a lot of useful information. The intention is that this guide will be deconstructed, updated, and integrated into directly Starbase Orion 10 via the SOPedia.
+The following is a copy of the original **Strategy Guide for Starbase Orion** written by **anthee**, a highly regarded veteran player. It was originally posted to the Starbase Orion 1 forums in 2014, and saved here for posterity. While the content may not be 100% accurate to Starbase Orion 10, there is still a lot of useful information here.
 
 *Rocco Bowling*
 
@@ -663,7 +667,7 @@ sin(sharedIntelPopulation/25.0f)*3.2f-0.5f
 
 Did that tell you everything necessary? Right, I didn't think so. This graph of the latter function might be more informative:
 
-![graph.jpg](./graph.jpg)
+*(Editor note: unable to recover image graph.jpg)*
 
 On the x-axis, you have a planet's population from 1 through 33. On the y-axis, you have the bonus that Shared Intelligence gives to farming, industry and research per colonist (depending on which task the colonist is assigned to) at the given level of population: negative before population 4, then slowly ascending to +0.5/colonist at population 8, +1/colonist at pop 12, +1.5/colonist at pop 17, nearly +2/colonist at pop 22 and maxing out at around +2.6/colonist at pop 33 which is the highest population you can theoretically have in Starbase Orion (a huge gaia planet with Advanced City Planning III). In other words, as you go up in population, the bonus you get from Shared Intelligence dramatically increases but is nonexistent or fairly modest at low to medium populations.
 
