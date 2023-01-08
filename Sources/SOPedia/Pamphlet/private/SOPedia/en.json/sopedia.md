@@ -1,3 +1,7 @@
+---
+title: SOPedia
+---
+
 ## Welcome to the SOPedia!
 
 The Starbase Orion Encyclopedia (SOPedia) contains a variety of information, from in-game content such as technology description to player contributed content like strategy guides and tips. You can reference any section of the SOPedia with in-game chat by using **[** **]**. For example, to link someone to Laser Beam 3 simply enter **[laserBeam3]** in your chat message.
