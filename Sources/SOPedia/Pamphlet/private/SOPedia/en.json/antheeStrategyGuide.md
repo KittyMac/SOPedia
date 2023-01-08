@@ -1,12 +1,13 @@
----
-title: Strategy Guide for Starbase Orion 1
----
-
 ###Preamble
 
 The following is a copy of the original **Strategy Guide for Starbase Orion** written by **anthee**, a highly regarded veteran player. It was originally posted to the Starbase Orion 1 forums in 2014, and saved here for posterity. While the content may not be 100% accurate to Starbase Orion 10, there is still a lot of useful information here.
 
 *Rocco Bowling*
+
+-------
+
+###STRATEGY GUIDE FOR STARBASE ORION V1.2.5
+*by anthee*
 
 ####Abbreviation key
 
@@ -68,9 +69,6 @@ WO    warlord overhaul
 ```
 
 Weapon and system configurations are written with the number of items of the given kind equipped on the ship expressed first, followed by the abbreviation of the item and its tech level. Different items are separated by a slash. For example, 2L3/1G1/1HA2 = two instances of Laser Beam III, one instance of Gauss Turret I and one instance of Heavy Armor Plating II equipped on the ship in question.
-
-###STRATEGY GUIDE FOR STARBASE ORION V1.2.5
-*by anthee*
 
 ####Introduction
 

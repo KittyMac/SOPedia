@@ -1,17 +1,55 @@
----
-title: Index
----
-
 ## Welcome to the SOPedia!
-*Starbase Orion Encyclopedia*
 
-The SOPedia contains a variety of information for Starbase Orion, from in-game content such as technology description to player contributed content like strategy guides and tips. You can reference any section in the SOPedia through in game chat by using **[** **]**. For example, to link someone to Laser Beam 3 simple enter **[laserBeam3]** in your chat message.
+The Starbase Orion Encyclopedia (SOPedia) contains a variety of information for Starbase Orion, from in-game content such as technology description to player contributed content like strategy guides and tips. You can reference any section in the SOPedia through in game chat by using **[** **]**. For example, to link someone to Laser Beam 3 simple enter **[laserBeam3]** in your chat message.
 
 The [SOPedia Github project](https://github.com/KittyMac/SOPedia) drives all of this content and modifications from the community are welcome! If you don't know what that is but still want to contribute please reach out on Discord.
 
 ### Strategy Guides
 
 * [Anthee's Strategy Guide for Starbase Orion 1](javascript:openPedia('antheeStrategyGuide'))
+
+### Empire Attributes
+
+* [Aquatic](javascript:openPedia('aquatic'))
+* [Battle Hardened](javascript:openPedia('battleHardened'))
+* [Brilliant Researchers](javascript:openPedia('brilliantResearchers'))
+* [Broad Field Experimentalists](javascript:openPedia('broadFieldExperimentalists'))
+* [Charismatic](javascript:openPedia('charismatic'))
+* [Combat Pilots](javascript:openPedia('combatPilots'))
+* [Fantastic Engineers](javascript:openPedia('fantasticEngineers'))
+* [Inadequate Farmers](javascript:openPedia('farming1'))
+* [Proficient Farmers](javascript:openPedia('farming2'))
+* [Plant Whisperers](javascript:openPedia('farming3'))
+* [Freethinking](javascript:openPedia('freethinking'))
+* [Galactic Navigators](javascript:openPedia('galacticNavigators'))
+* [Old Fashioned](javascript:openPedia('growth1'))
+* [Fertile Biology](javascript:openPedia('growth2'))
+* [Baby Boomers](javascript:openPedia('growth3'))
+* [High Gravity Homeworld](javascript:openPedia('highGravityHomeworld'))
+* [Highly Focused Scientists](javascript:openPedia('highlyFocusedScientists'))
+* [Highly Trained Smugglers](javascript:openPedia('highlyTrainedSmugglers'))
+* [Huge Homeworld](javascript:openPedia('hugeHomeworld'))
+* [Slow as Sloths](javascript:openPedia('industry1'))
+* [Industrious Individuals](javascript:openPedia('industry2'))
+* [Amazing Industrialists](javascript:openPedia('industry3'))
+* [Low Gravity Homeworld](javascript:openPedia('lowGravityHomeworld'))
+* [Medium Homeworld](javascript:openPedia('mediumHomeworld'))
+* [Thrift Spenders](javascript:openPedia('money1'))
+* [Prosperous Businessmen](javascript:openPedia('money2'))
+* [Money Lenders](javascript:openPedia('money3'))
+* [Natural Tinkers](javascript:openPedia('naturalTinkers'))
+* [Persnickety](javascript:openPedia('persnickety'))
+* [Poor Homeworld](javascript:openPedia('poorHomeworld'))
+* [Repulsive](javascript:openPedia('repulsive'))
+* [Slow Thinkers](javascript:openPedia('research1'))
+* [Quick Thinkers](javascript:openPedia('research2'))
+* [Borderline Genius](javascript:openPedia('research3'))
+* [Rich Homeworld](javascript:openPedia('richHomeworld'))
+* [Robust Techies](javascript:openPedia('robustTechies'))
+* [Sanctioned Piracy](javascript:openPedia('sanctionedPiracy'))
+* [Shared Intelligence](javascript:openPedia('sharedIntelligence'))
+* [Small Homeworld](javascript:openPedia('smallHomeworld'))
+* [Tolerant](javascript:openPedia('tolerant'))
 
 ### Colony Leaders
 
@@ -36,8 +74,6 @@ The [SOPedia Github project](https://github.com/KittyMac/SOPedia) drives all of 
 * [Rogue Captain](javascript:openPedia('rogueCaptain'))
 * [Tyrrhenius](javascript:openPedia('tyrrhenius'))
 * [Mortis Wretch](javascript:openPedia('wretch'))
-
-
 
 ### Technology
 
