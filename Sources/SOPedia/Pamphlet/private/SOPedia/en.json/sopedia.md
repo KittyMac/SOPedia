@@ -12,6 +12,12 @@ The Starbase Orion Encyclopedia (SOPedia) contains a variety of information, fro
 
 * [Anthee's Strategy Guide for Starbase Orion 1](javascript:openPedia('antheeStrategyGuide'))
 
+### General Help
+
+* [Morale](javascript:openPedia('help_morale'))
+* [Planets](javascript:openPedia('help_planets'))
+* [Research](javascript:openPedia('help_research'))
+
 ### Empire Attributes
 
 * [Aquatic](javascript:openPedia('aquatic'))
