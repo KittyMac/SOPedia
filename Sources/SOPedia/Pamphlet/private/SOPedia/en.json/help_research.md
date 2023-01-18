@@ -18,7 +18,9 @@ There are several racial attributes that affect how your empire performs. For ex
 
 
 
-
+>
+>*Excerpt from "Starbase Orion: The Brightest Star of All" by Oliver Kiley*
+>
 > Technology that Matters
 > 
 > A pet peeve of mine in 4X games is an overabundance of incremental technology, wrapped up in a research system that doesn’t require tough (i.e. meaningful) choices. Thankfully, Starbase Orion avoids this issue. The technology system in Starbase Orion is simple mechanically but has deep implications. 
@@ -27,4 +29,3 @@ There are several racial attributes that affect how your empire performs. For ex
 > 
 > This system means that within each field you can’t research everything and you have to make tough choices. Do you choose a tech to upgrade your industrial efficiency or one that increases your maximum colony population? Do you choose to research trade ports to boost your income or Star Dirve technologies so your fleets move faster? What about weapon systems? Should you go with upgrading your lasers or do you hold out for Gauss Cannons? You have to consider your choices carefully because most of the technologies have significant ramifications for how your empire develops and the options that are open to you.
 >
->*from "Starbase Orion: The Brightest Star of All" by Oliver Kiley*
