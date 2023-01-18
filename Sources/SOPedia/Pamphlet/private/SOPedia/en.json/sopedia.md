@@ -14,6 +14,10 @@ The Starbase Orion Encyclopedia (SOPedia) contains a variety of information, fro
 
 ### General Help
 
+* [Blockades](javascript:openPedia('help_blockades'))
+* [Build Focuses](javascript:openPedia('help_build_focus'))
+* [Galactic Turn](javascript:openPedia('help_galactic_turn'))
+* [Build](javascript:openPedia('help_build'))
 * [Morale](javascript:openPedia('help_morale'))
 * [Planets](javascript:openPedia('help_planets'))
 * [Research](javascript:openPedia('help_research'))
