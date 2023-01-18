@@ -18,7 +18,6 @@ There are several racial attributes that affect how your empire performs. For ex
 
 
 
-----------
 
 > Technology that Matters
 > 
@@ -27,5 +26,5 @@ There are several racial attributes that affect how your empire performs. For ex
 > There are three research fields, and depending on your racial traits a player will have half a dozen or so technologies they can research in each field. When you research an item in a field, items you didn’t research move down the list, going from green, to yellow, to red in color each time. When they are “red”, they will next fall off the list completely and won’t be available again until you cycle all the way through that technology field. 
 > 
 > This system means that within each field you can’t research everything and you have to make tough choices. Do you choose a tech to upgrade your industrial efficiency or one that increases your maximum colony population? Do you choose to research trade ports to boost your income or Star Dirve technologies so your fleets move faster? What about weapon systems? Should you go with upgrading your lasers or do you hold out for Gauss Cannons? You have to consider your choices carefully because most of the technologies have significant ramifications for how your empire develops and the options that are open to you.
-
-*Excerpt from "Starbase Orion: The Brightest Star of All" by Oliver Kiley*
+>
+>*from "Starbase Orion: The Brightest Star of All" by Oliver Kiley*
