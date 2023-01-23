@@ -31,6 +31,7 @@ The Starbase Orion Encyclopedia (SOPedia) contains a variety of information, fro
 * [Charismatic](javascript:openPedia('charismatic'))
 * [Combat Pilots](javascript:openPedia('combatPilots'))
 * [Fantastic Engineers](javascript:openPedia('fantasticEngineers'))
+* [Genetic Splicers](javascript:openPedia('geneticSplicers'))
 * [Inadequate Farmers](javascript:openPedia('farming1'))
 * [Proficient Farmers](javascript:openPedia('farming2'))
 * [Plant Whisperers](javascript:openPedia('farming3'))

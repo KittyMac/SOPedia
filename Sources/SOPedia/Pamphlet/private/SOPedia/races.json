@@ -60,6 +60,8 @@
         { "order":39, "uuid": "sanctionedPiracy", "title": "Sanctioned Piracy", "cost": 2 },
         
         { "order":40, "uuid": "aquatic", "title": "Aquatic", "cost": 3 },
+		
+		{ "order":41, "uuid": "geneticSplicers", "title": "Genetic Splicers", "cost": 3 },
         
     ],
     
