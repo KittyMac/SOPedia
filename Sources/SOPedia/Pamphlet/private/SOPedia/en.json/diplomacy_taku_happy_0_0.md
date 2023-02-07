@@ -1,1 +1,1 @@
-You are wise to seek to appease us.
+This outcome has met our expectations.

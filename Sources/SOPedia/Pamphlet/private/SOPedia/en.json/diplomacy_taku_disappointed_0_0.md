@@ -1,1 +1,1 @@
-The sun is not shining on us this day.
+We had hoped for more.

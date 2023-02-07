@@ -1,1 +1,1 @@
-Your request will be moved to the front of the line.
+We must weigh the merits of this proposal with care, for the sake of our future dealings.

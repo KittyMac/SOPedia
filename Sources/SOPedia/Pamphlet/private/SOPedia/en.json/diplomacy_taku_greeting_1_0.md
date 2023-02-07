@@ -1,1 +1,1 @@
-When we all compete, we all win.
+We have not discussed in some time.

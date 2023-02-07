@@ -1,1 +1,1 @@
-Will you fly with us now?
+Greetings. State your purpose.

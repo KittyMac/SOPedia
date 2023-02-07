@@ -1,1 +1,1 @@
-Our warriors shall dance with you, but not in friendship.
+This treachery knows no bounds.

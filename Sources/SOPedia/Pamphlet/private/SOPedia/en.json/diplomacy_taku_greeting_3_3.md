@@ -1,1 +1,1 @@
-The sun shines upon our alliance, brother.
+We have much to discuss.

@@ -1,1 +1,1 @@
-Sun’s warmth be with you.
+I trust this meeting finds you well.

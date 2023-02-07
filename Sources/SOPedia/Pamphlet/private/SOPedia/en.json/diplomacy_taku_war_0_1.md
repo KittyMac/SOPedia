@@ -1,1 +1,1 @@
-The lives of our pilots will be well spend to eradicate you from the Galaxy.
+Your tyranny shall be met with the full might of our superiority!

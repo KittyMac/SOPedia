@@ -1,1 +1,1 @@
-Fly softly, lest this lead to turbulent skies.
+One wonders if perhaps your species was bred this way.

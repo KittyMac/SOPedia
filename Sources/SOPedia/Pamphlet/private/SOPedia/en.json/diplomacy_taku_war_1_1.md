@@ -1,1 +1,1 @@
-A thousand generations demand you answer for your actions.
+We shall not rest until our enemies are defeated.

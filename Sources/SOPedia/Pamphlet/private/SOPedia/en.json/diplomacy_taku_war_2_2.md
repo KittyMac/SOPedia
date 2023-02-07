@@ -1,1 +1,1 @@
-The Hegemony will show you the meaning of might.
+We shall not be made a fool of, and we shall reclaim our dignity!

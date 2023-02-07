@@ -1,1 +1,1 @@
-Sun’s warmth be upon you.
+Greetings. Are you ready to merge your pool with ours?

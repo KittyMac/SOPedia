@@ -1,1 +1,1 @@
-We will clip your wings as you have clipped ours.
+We shall not be made a fool of.

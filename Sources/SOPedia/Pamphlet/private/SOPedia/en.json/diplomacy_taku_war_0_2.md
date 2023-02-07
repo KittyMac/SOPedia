@@ -1,1 +1,1 @@
-Your skies will grow black with our ships!
+Let the galaxy tremble, for the T'aku Junta have declared war!

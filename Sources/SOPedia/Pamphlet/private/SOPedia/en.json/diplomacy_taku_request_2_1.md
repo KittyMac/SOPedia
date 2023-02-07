@@ -1,1 +1,1 @@
-The Matriarch will reply shortly.
+We must consider the balance of power, before we grant your request.

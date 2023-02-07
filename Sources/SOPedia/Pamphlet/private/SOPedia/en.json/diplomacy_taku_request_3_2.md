@@ -1,1 +1,1 @@
-We will give this our full consideration.
+Your request, my friend, requires our full consideration.

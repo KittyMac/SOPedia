@@ -1,1 +1,1 @@
-May you continue to please the Matriarch.
+You are wise to bring us a commendable result.

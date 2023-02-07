@@ -1,1 +1,1 @@
-We give you the hand and wing of friendship.
+Join with us and our combined genetics will make us unstoppable.

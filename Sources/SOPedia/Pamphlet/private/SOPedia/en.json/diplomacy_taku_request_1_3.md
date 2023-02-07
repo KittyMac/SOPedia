@@ -1,1 +1,1 @@
-Be assured that your request will be answered in due time.
+The consequences of this decision shall be far-reaching.

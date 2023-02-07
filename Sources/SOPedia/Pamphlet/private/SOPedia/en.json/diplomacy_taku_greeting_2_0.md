@@ -1,1 +1,1 @@
-The taku see you.
+What is the reason for this communication?

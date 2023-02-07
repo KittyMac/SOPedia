@@ -1,1 +1,1 @@
-Keep begging while your request is relayed.
+You are quite bold to ask this of us.

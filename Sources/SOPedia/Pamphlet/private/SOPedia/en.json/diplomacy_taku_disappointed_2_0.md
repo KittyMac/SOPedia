@@ -1,1 +1,1 @@
-In turbulent skies you must time your wings and fly on.
+If only we could change you as easily as we change ourselves.

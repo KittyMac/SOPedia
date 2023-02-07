@@ -1,1 +1,1 @@
-The Hegemony will consider this.
+We shall weigh this burden with caution.

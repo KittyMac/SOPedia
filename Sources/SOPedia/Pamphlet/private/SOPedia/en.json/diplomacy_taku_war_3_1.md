@@ -1,1 +1,1 @@
-Our flight together is now a dance of death.
+We shall not rest until justice is served, and our enemies are defeated!

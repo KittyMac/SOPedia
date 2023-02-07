@@ -1,1 +1,1 @@
-Your gift will ensure the prosperity of the next generation.
+Soon we shall become one.

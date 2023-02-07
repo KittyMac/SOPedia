@@ -1,1 +1,1 @@
-This gives us cause to doubt your future words.
+You might consider changing your outlook for our next meeting.

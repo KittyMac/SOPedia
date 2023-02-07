@@ -1,1 +1,1 @@
-The Hegemony is grateful for your thoughtfulness.
+This is kind and generous of you.

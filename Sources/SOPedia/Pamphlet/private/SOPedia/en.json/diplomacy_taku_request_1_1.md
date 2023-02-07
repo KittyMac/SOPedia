@@ -1,1 +1,1 @@
-The Matriarch’s wisdom will decide this matter.
+We shall weigh the matter carefully.

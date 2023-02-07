@@ -1,1 +1,1 @@
-Prattle on.  I may listen.
+I fear that dialogue may be pointless.

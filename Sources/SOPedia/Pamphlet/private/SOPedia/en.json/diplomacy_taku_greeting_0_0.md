@@ -1,1 +1,1 @@
-What do you want on this sunless day?
+Mmmm, what have we here?

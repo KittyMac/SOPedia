@@ -1,1 +1,1 @@
-We will not stand idly by while you continue to insult us.
+We are forced to act, for the greater good of our civilization!

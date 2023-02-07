@@ -1,1 +1,1 @@
-I will fly with you, brother.
+Greetings, emissary. What brings you this day?

@@ -1,1 +1,1 @@
-We fly a different path now.
+Betrayal will not go unpunished.

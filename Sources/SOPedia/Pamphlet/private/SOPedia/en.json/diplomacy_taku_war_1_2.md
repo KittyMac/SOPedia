@@ -1,1 +1,1 @@
-You have misinterpreted our tolerance for weakness.
+Let the galaxy witness as we exterminate the threats to our empire.

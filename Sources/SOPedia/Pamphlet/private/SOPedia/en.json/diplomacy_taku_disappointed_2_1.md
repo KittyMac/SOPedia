@@ -1,1 +1,1 @@
-The Matriarch is disappointed it has come to this.
+Perhaps it would be best if we did not.

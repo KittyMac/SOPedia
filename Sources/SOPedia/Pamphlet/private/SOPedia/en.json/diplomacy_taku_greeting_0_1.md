@@ -1,1 +1,1 @@
-What dark hole did you crawl forth from?
+Your genes call to us.

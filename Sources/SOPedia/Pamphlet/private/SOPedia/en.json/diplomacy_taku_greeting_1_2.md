@@ -1,1 +1,1 @@
-The Hegemony listens to your words.
+State your purpose.

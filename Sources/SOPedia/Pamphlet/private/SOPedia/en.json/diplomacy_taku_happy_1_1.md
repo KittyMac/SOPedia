@@ -1,1 +1,1 @@
-A grand gift you give.
+This is most generous.

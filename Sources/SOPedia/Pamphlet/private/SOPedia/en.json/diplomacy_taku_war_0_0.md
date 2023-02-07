@@ -1,1 +1,1 @@
-A thousand deaths be upon you.
+The time has come to unleash our wrath upon our enemies!
