@@ -6,9 +6,9 @@ MANAGER_IP_ADDRESS="$2"
 S="    "
 ARCH=`uname -m`
 
-read -p 'Enter 192.168.1.XXX: ' N
+read -p 'Enter 192.168.111.XXX: ' N
 
-read -p "Initialize node as cluster${N} @ 192.168.1.${N}. Are you sure? " -n 1 -r
+read -p "Initialize node as cluster${N} @ 192.168.111.${N}. Are you sure? " -n 1 -r
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
     
@@ -72,9 +72,9 @@ then
     # (new) method uses the NetworkManager
     sudo nmcli general hostname cluster${N}
     
-    sudo nmcli con mod "Wired connection 1" ipv4.addresses "192.168.1.${N}/24" ipv4.gateway "192.168.1.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
-	sudo nmcli con mod "Wired connection 2" ipv4.addresses "192.168.1.${N}/24" ipv4.gateway "192.168.1.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
-	sudo nmcli con mod "Wired connection 3" ipv4.addresses "192.168.1.${N}/24" ipv4.gateway "192.168.1.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
+    sudo nmcli con mod "Wired connection 1" ipv4.addresses "192.168.111.${N}/24" ipv4.gateway "192.168.111.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
+	sudo nmcli con mod "Wired connection 2" ipv4.addresses "192.168.111.${N}/24" ipv4.gateway "192.168.111.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
+	sudo nmcli con mod "Wired connection 3" ipv4.addresses "192.168.111.${N}/24" ipv4.gateway "192.168.111.254" ipv4.dns "8.8.8.8,1.1.1.1" ipv4.dns-search "attlocal.net" ipv4.method "manual"
     #sudo nmcli con mod "Wired connection 1" ipv4.addresses "" ipv4.gateway "" ipv4.dns "" ipv4.dns-search "" ipv4.method "auto"
     
     # flatpaks

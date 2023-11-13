@@ -22,9 +22,9 @@ MANAGER_IP_ADDRESS="$2"
 S="    "
 ARCH=`uname -m`
 
-read -p 'Enter 192.168.1.XXX: ' N
+read -p 'Enter 192.168.111.XXX: ' N
 
-read -p "Initialize node as cluster${N} @ 192.168.1.${N}. Are you sure? " -n 1 -r
+read -p "Initialize node as cluster${N} @ 192.168.111.${N}. Are you sure? " -n 1 -r
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
     
@@ -55,7 +55,7 @@ then
     sudo rm -f /etc/netplan/00-installer-config.yaml
     sudo rm -f /etc/netplan/50-cloud-init.yaml
 
-    printf "network:\n${S}ethernets:\n${S}${S}eth0:\n${S}${S}${S}dhcp4: no\n${S}${S}${S}addresses:\n${S}${S}${S} - 192.168.1.${N}/24\n${S}${S}${S}gateway4: 192.168.1.254\n${S}${S}${S}nameservers:\n${S}${S}${S}${S}addresses: [8.8.8.8, 1.1.1.1]\n${S}version: 2\n" | sudo tee /etc/netplan/50-cloud-init.yaml
+    printf "network:\n${S}ethernets:\n${S}${S}eth0:\n${S}${S}${S}dhcp4: no\n${S}${S}${S}addresses:\n${S}${S}${S} - 192.168.111.${N}/24\n${S}${S}${S}gateway4: 192.168.111.254\n${S}${S}${S}nameservers:\n${S}${S}${S}${S}addresses: [8.8.8.8, 1.1.1.1]\n${S}version: 2\n" | sudo tee /etc/netplan/50-cloud-init.yaml
     
     sudo netplan apply
     
