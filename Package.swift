@@ -22,7 +22,7 @@ let package = Package(
                 .product(name: "PamphletFramework", package: "Pamphlet")
             ],
             plugins: [
-                .plugin(name: "PamphletReleaseOnlyPlugin", package: "Pamphlet")
+                .plugin(name: "PamphletPlugin", package: "Pamphlet"),
             ]
         )
     ]

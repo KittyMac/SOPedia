@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/KittyMac/Chronometer.git",
       "state" : {
-        "revision" : "1360b46bfa6eecbdedd24590b95f97d3e59dc027",
-        "version" : "0.1.6"
+        "revision" : "d21b89e5cb5929b5175bdb3ad710a52cbf497eaa",
+        "version" : "0.1.12"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/KittyMac/GzipSwift.git",
       "state" : {
-        "revision" : "ca15e2487b21e6f9d8829997184f14de32654b5b",
-        "version" : "5.3.0"
+        "revision" : "0f5ce356dc9b75cde454caec96f9e7c2b931caae",
+        "version" : "5.3.6"
       }
     },
     {
@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/KittyMac/Hitch.git",
       "state" : {
-        "revision" : "6c4eeb3a675c5649a27e51a8dfd67ab0439357d1",
-        "version" : "0.4.48"
+        "revision" : "77b592f4c21c454a24da2fad80901e6b19751780",
+        "version" : "0.4.147"
       }
     },
     {
@@ -32,8 +32,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/KittyMac/Jib.git",
       "state" : {
-        "revision" : "27c16a0ebbbd2cc66156ac9ead371e2018232fc3",
-        "version" : "0.0.11"
+        "revision" : "d5c7379c4100c4903921ca12bd3cc927f33e26ff",
+        "version" : "0.0.85"
       }
     },
     {
@@ -41,8 +41,17 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/KittyMac/Pamphlet.git",
       "state" : {
-        "revision" : "e18c44d1fa21dac760021e25620445b0a0f8419f",
-        "version" : "0.3.49"
+        "revision" : "15eef95fb3128f4e4360b8a0aa89cfb7e2f5445c",
+        "version" : "0.3.116"
+      }
+    },
+    {
+      "identity" : "sextant",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/KittyMac/Sextant.git",
+      "state" : {
+        "revision" : "52a77d0bce0210cf9557faef7fd0adb9a6da02fb",
+        "version" : "0.4.31"
       }
     },
     {
@@ -50,8 +59,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/KittyMac/Spanker.git",
       "state" : {
-        "revision" : "c383c78d988f925d071b0f204e4591c8a198843e",
-        "version" : "0.2.27"
+        "revision" : "d4b439bf76a40fb45d86a24d13b9c26e7d630eee",
+        "version" : "0.2.49"
       }
     }
   ],
