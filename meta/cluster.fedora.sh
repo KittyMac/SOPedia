@@ -86,6 +86,9 @@ then
     sudo dnf -y groupupdate core
     sudo dnf -y groupupdate multimedia --setop="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin
     sudo dnf -y groupupdate sound-and-video
+    
+    # Disable sleep while plugged in
+    sudo -u gdm dbus-run-session gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-ac-timeout 0
 
     echo "Finished!"
     
