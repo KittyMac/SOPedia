@@ -36,18 +36,17 @@ then
     # install docker
     # https://docs.docker.com/engine/install/fedora/
     sudo dnf -y remove docker \
-              docker-client \
-              docker-client-latest \
-              docker-common \
-              docker-latest \
-              docker-latest-logrotate \
-              docker-logrotate \
-              docker-selinux \
-              docker-engine-selinux \
-              docker-engine
+          docker-client \
+          docker-client-latest \
+          docker-common \
+          docker-latest \
+          docker-latest-logrotate \
+          docker-logrotate \
+          docker-selinux \
+          docker-engine-selinux \
+          docker-engine
     
-    sudo dnf -y install dnf-plugins-core
-    sudo dnf -y config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
+    sudo dnf -y config-manager addrepo --from-repofile https://download.docker.com/linux/fedora/docker-ce.repo
     sudo dnf -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
     
     sudo systemctl enable docker
@@ -55,6 +54,8 @@ then
     
     sudo groupadd docker
     sudo usermod -aG docker $USER
+    
+    sudo docker network create --driver overlay --attachable network
     
     # lower swappiness
     echo 'vm.swappiness=10' | sudo tee -a /etc/sysctl.conf
@@ -81,11 +82,11 @@ then
     flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
     
     # RPM fusion
-    sudo dnf -y install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+    #sudo dnf -y install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
     
-    sudo dnf -y groupupdate core
-    sudo dnf -y groupupdate multimedia --setop="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin
-    sudo dnf -y groupupdate sound-and-video
+    #sudo dnf -y groupupdate core
+    #sudo dnf -y groupupdate multimedia --setop="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin
+    #sudo dnf -y groupupdate sound-and-video
     
     # Disable sleep while plugged in
     sudo -u gdm dbus-run-session gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-ac-timeout 0
